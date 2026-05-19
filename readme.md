@@ -2,12 +2,14 @@
 
 Player style embeddings from football event sequences.
 
-Forma treats a player's career as a corpus of possession chains -- the same way
+Forma treats a player's career as a corpus of possession chains - the same way
 Word2Vec treats a document as a corpus of sentences. Each action (progressive pass,
 carry, dribble, shot, press) is a token. Word2Vec learns which tokens appear in
 similar contexts, producing a 128-dimensional action embedding. Players are then
 represented as the weighted mean of their action vectors, clustered with HDBSCAN,
 and made searchable via a FAISS similarity index.
+
+![Forma demo](assets/forma_demo.gif)
 
 
 ## What it does
