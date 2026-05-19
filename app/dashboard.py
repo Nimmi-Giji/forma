@@ -205,7 +205,7 @@ with st.sidebar:
         '<div style="font-size:0.72rem;color:#3a6a3a;letter-spacing:0.08em">'
         'DATA: StatsBomb Open Data<br>'
         'La Liga 2012–2021<br>'
-        '12-token action vocabulary<br>'
+        '17-token action vocabulary<br>'
         'Word2Vec → UMAP → HDBSCAN'
         '</div>',
         unsafe_allow_html=True
@@ -221,7 +221,7 @@ c1, c2, c3, c4 = st.columns(4)
 c1.metric("Players mapped",   f"{len(named_df):,}")
 c2.metric("Archetypes found", str(len([a for a in archetypes if a != 'Uncategorised'])))
 c3.metric("Seasons covered",  "9")
-c4.metric("Action tokens",    "12")
+c4.metric("Action tokens",    "17")
 
 st.markdown("---")
 

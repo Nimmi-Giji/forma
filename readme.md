@@ -19,11 +19,7 @@ and made searchable via a FAISS similarity index.
 - Finds the N most stylistically similar players to any query player
 - Serves an interactive dashboard: style map, similarity search, archetype explorer
 
-Notable finding: the model discovers that team system dominates individual style
-signals. Barcelona and Real Madrid players cluster together regardless of position
-because their high-possession systems produce near-identical action token
-distributions across all roles.
-
+Cluster 3 groups players with high CARRY_PROG, PASS_PROG, and CARRY_WIDE counts regardless of position. Defenders and attackers who produce high progressive action volumes land here together. The model cannot separate a centre-back who carries out of defence from a winger who carries into the final third because it's the same token in a different context.
 
 ## Stack
 
@@ -43,7 +39,7 @@ distributions across all roles.
     |-- app/
     |   `-- dashboard.py       # Streamlit app
     |-- data/
-    |   |-- raw/               # StatsBomb downloads (gitignored)
+    |   |-- raw/               # StatsBomb downloads 
     |   `-- processed/
     |       `-- player_meta_aligned.csv
     |-- models/                # Trained artifacts (gitignored, rebuild with pipeline)
