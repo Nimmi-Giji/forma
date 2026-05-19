@@ -1,0 +1,1060 @@
+player_id,x,y,cluster,name,position,archetype
+5213.0,-0.5627235,-3.0272698,3,Gerard Piqué Bernabéu,Right Center Back,Possession system elite
+10609.0,-0.51268286,-3.0629983,3,Jérémy Mathieu,Left Center Back,Possession system elite
+5216.0,0.6750565,-2.5479362,4,Andrés Iniesta Luján,Left Center Midfield,Creative playmaker
+5503.0,0.5614605,-3.2546465,3,Lionel Andrés Messi Cuccittini,Right Wing,Possession system elite
+11179.0,13.769799,6.3349624,0,Iker Casillas Fernández,Goalkeeper,Shot-stopper
+5246.0,2.8108134,-0.6254018,4,Luis Alberto Suárez Díaz,Center Forward,Creative playmaker
+5211.0,-0.16965893,-3.2240222,3,Jordi Alba Ramos,Left Back,Possession system elite
+20016.0,-1.2767363,-2.1143668,3,Kléper Laveran Lima Ferreira,Right Center Back,Possession system elite
+5201.0,-1.5902132,-1.4655676,3,Sergio Ramos García,Left Center Back,Possession system elite
+5506.0,-0.9109189,-2.3376055,3,Javier Alejandro Mascherano,Left Center Back,Possession system elite
+5574.0,1.1398842,0.046168633,5,Toni Kroos,Center Defensive Midfield,Wide progressive
+5721.0,0.40706605,-0.629649,-1,Daniel Carvajal Ramos,Right Back,Uncategorised
+4324.0,0.64850616,-2.3378344,4,Daniel Alves da Silva,Right Back,Creative playmaker
+6399.0,1.6357738,-1.834472,4,Gareth Frank Bale,Right Wing,Creative playmaker
+5463.0,0.4686341,-2.2758796,4,Luka Modrić,Right Center Midfield,Creative playmaker
+4926.0,1.6662656,-1.8193742,4,Francisco Román Alarcón Suárez,Left Center Midfield,Creative playmaker
+5470.0,0.95185614,-2.2136593,4,Ivan Rakitić,Right Center Midfield,Creative playmaker
+4691.0,15.781542,1.7612545,0,Claudio Andrés Bravo Muñoz,Goalkeeper,Shot-stopper
+5552.0,-0.27489474,-3.0906754,3,Marcelo Vieira da Silva Júnior,Left Back,Possession system elite
+4320.0,0.8256158,-3.1232128,3,Neymar da Silva Santos Junior,Left Wing,Possession system elite
+19677.0,2.667506,-0.45969656,4,Karim Benzema,Center Forward,Creative playmaker
+5207.0,0.71624327,-3.175674,3,Cristiano Ronaldo dos Santos Aveiro,Left Wing,Possession system elite
+5485.0,-1.5496308,-1.990334,3,Raphaël Varane,Right Center Back,Possession system elite
+5203.0,1.0430373,-2.0177996,4,Sergio Busquets i Burgos,Center Defensive Midfield,Creative playmaker
+20131.0,-0.06656857,-3.2303467,3,Xavier Hernández Creus,Left Center Midfield,Possession system elite
+3990.0,1.7186818,-1.6879821,4,Jesé Rodríguez Ruiz,Left Wing,Creative playmaker
+6998.0,1.3841405,-2.3290703,4,Rafael Alcântara do Nascimento,Right Center Midfield,Creative playmaker
+3637.0,-0.16601077,2.5850074,6,Grzegorz Krychowiak,Left Defensive Midfield,Defensive anchor
+6672.0,-0.2737329,2.6343484,6,Jorge Andújar Moreno,Right Back,Defensive anchor
+27111.0,15.3499155,2.7926395,0,António Alberto Bastos Pimparel,Goalkeeper,Shot-stopper
+5504.0,0.16635707,-0.7434811,4,Éver Maximiliano David Banega,Center Attacking Midfield,Creative playmaker
+7909.0,-2.0028653,0.74127525,10,Nicolás Martín Pareja,Right Center Back,Aerial commander
+10881.0,0.8823495,4.4631696,6,Diogo José Rosário Gomes Figueiras,Right Back,Defensive anchor
+6841.0,2.659656,4.037644,5,Víctor Machín Pérez,Right Wing,Wide progressive
+6825.0,-2.2127054,1.9621139,-1,Daniel Filipe Martins Carriço,Left Center Back,Uncategorised
+6400.0,1.0368289,-2.1249952,4,Aleix Vidal Parreu,Right Back,Creative playmaker
+5688.0,2.0702446,6.7297354,2,Carlos Arturo Bacca Ahumada,Center Forward,Box-to-box engine
+6609.0,1.9567183,2.0029697,5,Denis Suárez Fernández,Left Midfield,Wide progressive
+3726.0,-0.2668695,11.717364,1,Gerard Deulofeu Lázaro,Right Wing,Generalist
+3958.0,1.5284704,-2.1309683,4,Pedro Eliezer Rodríguez Ledesma,Right Wing,Creative playmaker
+5217.0,2.7936518,2.3581977,5,Iago Aspas Juncal,Center Forward,Wide progressive
+22102.0,0.5677307,-2.4231992,4,Adriano Correia Claro,Left Back,Creative playmaker
+6401.0,2.4254024,6.2692294,2,Kevin Gameiro,Center Forward,Box-to-box engine
+6904.0,-3.8665483,3.4617426,8,Sergio Sánchez Ortega,Right Center Back,Stopper CB
+6569.0,-1.0596173,0.6667612,9,Roberto José Rosales Altuve,Right Back,Attacking fullback
+26669.0,-2.86082,1.599364,10,Weligton Róbson Pena de Oliveira,Left Center Back,Aerial commander
+7068.0,-1.1048926,-2.491542,3,Marc Bartra Aregall,Right Center Back,Possession system elite
+25859.0,-0.07516476,-0.48205414,5,Sérgio Paulo Barbosa Valente,Right Midfield,Wide progressive
+26103.0,14.220517,4.9401355,0,Idriss Carlos Kameni,Goalkeeper,Shot-stopper
+8234.0,-0.20857534,3.4232829,6,Ignacio Camacho Barnola,Left Defensive Midfield,Defensive anchor
+6829.0,2.160974,5.3224998,2,Samuel Castillejo Azuaga,Left Midfield,Box-to-box engine
+6563.0,2.9596756,3.1150317,5,Juan Pablo Añor Acosta,Right Midfield,Wide progressive
+3236.0,0.56249183,10.443752,1,Sergi Darder Moll,Right Center Midfield,Generalist
+27318.0,1.2641193,-2.1699314,4,Douglas Pereira dos Santos,Right Back,Creative playmaker
+6878.0,-1.7728276,3.9606133,7,Miguel Torres Gómez,Left Back,Aggressive stopper
+3302.0,2.7036076,0.3030066,4,Nordin Amrabat,Right Center Forward,Creative playmaker
+3508.0,3.1010094,4.2835684,5,Sandro Ramírez Castillo,Right Wing,Wide progressive
+6695.0,1.2731185,9.026999,1,Juan Miguel Jiménez López,Left Center Forward,Generalist
+7782.0,2.2193365,0.8173804,4,Luis Alberto Romero Alconchel,Center Attacking Midfield,Creative playmaker
+6616.0,2.6090424,0.48057646,4,Munir El Haddadi Mohamed,Right Wing,Creative playmaker
+6580.0,1.4242069,2.3850267,5,José Luis García del Pozo,Left Defensive Midfield,Wide progressive
+24506.0,-0.05350253,10.664359,1,Álvaro Arroyo Martínez,Right Back,Generalist
+6625.0,14.484421,4.494272,0,Vicente Guaita Panadero,Goalkeeper,Shot-stopper
+25881.0,-0.25743338,4.3909245,6,Juan Antonio Rodríguez Villamuela,Right Defensive Midfield,Defensive anchor
+27054.0,-0.64721847,2.704801,6,Roberto Lago Soto,Left Back,Defensive anchor
+11813.0,1.9363881,5.1057596,2,Emiliano Buendía,Center Attacking Midfield,Box-to-box engine
+17054.0,-2.4743884,3.4290202,8,Emiliano Daniel Velázquez Maldonado,Right Center Back,Stopper CB
+6614.0,-3.0448503,0.577523,10,Alexis Ruano Delgado,Left Center Back,Aerial commander
+6745.0,0.61519337,4.6927032,6,Mehdi Lacen,Left Defensive Midfield,Defensive anchor
+6907.0,2.344934,2.9808006,5,Pedro León Sánchez Gil,Right Wing,Wide progressive
+27179.0,1.8045213,8.080817,1,Fredy Hinestroza Arias,Center Attacking Midfield,Generalist
+6379.0,0.6830356,-3.0227766,3,Sergi Roberto Carnicer,Right Back,Possession system elite
+6780.0,0.82726556,10.428921,1,Iván López Álvarez,Center Forward,Generalist
+27204.0,1.9650153,3.466121,5,Alejandro Felip Selma,Left Defensive Midfield,Wide progressive
+6593.0,0.44757095,-0.005501817,5,Martín Montoya Torralbo,Right Back,Wide progressive
+6718.0,-0.27756208,2.235833,6,Sergio Escudero Palomo,Left Back,Defensive anchor
+27112.0,0.2503087,11.639095,1,Papa Babacar Diawara,Center Forward,Generalist
+27109.0,1.6848286,7.789492,1,Youssef El-Arabi,Center Forward,Generalist
+4546.0,-0.44787693,4.3648396,6,Dimitri Foulquier,Right Back,Defensive anchor
+24783.0,0.77010995,6.356554,2,Javier Márquez Moreno,Center Attacking Midfield,Box-to-box engine
+26659.0,13.9531355,5.7275777,0,Roberto Fernández Alvarellos,Goalkeeper,Shot-stopper
+4498.0,-3.1803591,1.0717826,10,Jean-Sylvain Claude Babin,Right Center Back,Aerial commander
+3991.0,-1.4265794,4.823158,6,Allan Romeo Nyom,Right Back,Defensive anchor
+25707.0,-0.30149582,2.5814755,6,Francisco Manuel Rico Castro,Left Defensive Midfield,Defensive anchor
+22811.0,0.779372,6.233714,2,Héctor Yuste Cantón,Left Defensive Midfield,Box-to-box engine
+6743.0,1.143032,6.830465,2,Manuel Rolando Iturra Urrutia,Right Defensive Midfield,Box-to-box engine
+6585.0,-3.3558962,2.7621703,8,Jeison Fabián Murillo Cerón,Center Back,Stopper CB
+6918.0,2.9082131,-0.2448257,4,Isaac Ajayi Success,Right Wing,Creative playmaker
+23799.0,0.5279968,9.691147,1,Eddy Silvestre Pascual İsrafilov,Left Defensive Midfield,Generalist
+26797.0,0.9315459,0.20163846,5,Francisco Medina Luna,Right Wing,Wide progressive
+6914.0,-1.2211525,2.2641432,6,Roberto Román Triguero,Right Back,Defensive anchor
+3130.0,2.7871764,2.7719262,5,Gaël Kakuta,Left Midfield,Wide progressive
+12626.0,-1.7901052,-0.1262077,9,Emiliano Adrián Insúa Zapata,Left Back,Attacking fullback
+24040.0,15.731068,2.1652677,0,Cristian Darío Álvarez,Goalkeeper,Shot-stopper
+27144.0,-2.5373263,1.3745812,10,Antonio Amaya Carazo,Right Center Back,Aerial commander
+6879.0,2.398148,0.40678236,4,Alberto Bueno Calvo,Center Attacking Midfield,Creative playmaker
+6852.0,1.512597,0.8040251,5,Jozabed Sánchez Ruiz,Center Attacking Midfield,Wide progressive
+26848.0,-0.097231105,-2.0254874,4,Roberto Trashorras Gayoso,Right Defensive Midfield,Creative playmaker
+11536.0,-3.325269,2.7776246,8,Abdoulaye Ba,Right Center Back,Stopper CB
+10851.0,1.704958,8.297951,1,Luis Carlos Pereira Carneiro,Left Back,Generalist
+6761.0,2.930885,4.644107,5,Leonardo Carrilho Baptistão,Right Center Forward,Wide progressive
+24138.0,-1.1938123,4.01505,-1,Joaquín José Marín Ruiz,Right Back,Uncategorised
+26690.0,1.0416641,9.589587,1,Alberto Mateus Contreiras Gonçalves,Center Forward,Generalist
+27153.0,2.498258,1.695094,-1,Javier Ignacio Aquino Carmona,Left Midfield,Uncategorised
+6777.0,-1.9403477,-1.0450902,3,Sidnei Rechel da Silva Júnior,Left Center Back,Possession system elite
+6332.0,-0.6977298,-2.9288037,3,Thomas Vermaelen,Left Center Back,Possession system elite
+10277.0,13.80072,5.983817,0,Fabricio Martín Agosto Ramírez,Goalkeeper,Shot-stopper
+18243.0,2.7695336,3.915149,5,Ivan Ricardo Neves Abreu Cavaleiro,Left Wing,Wide progressive
+6732.0,2.9005766,3.4063387,5,Lucas Pérez Martínez,Center Forward,Wide progressive
+23800.0,-0.90882117,2.390425,6,Laureano Sanabria Ruiz,Right Back,Defensive anchor
+24686.0,-1.2578331,3.9795933,-1,Roberto Canella Suárez,Left Back,Uncategorised
+24234.0,0.5235932,10.733167,1,Juan Domínguez Lamas,Left Center Midfield,Generalist
+5582.0,0.58240455,2.273463,-1,Celso Borges Mora,Left Defensive Midfield,Uncategorised
+11302.0,15.250006,2.9481716,0,Jordi Masip López,Goalkeeper,Shot-stopper
+23806.0,0.09032451,4.2810583,6,Alejandro Bergantiños García,Right Defensive Midfield,Defensive anchor
+27191.0,1.6379513,0.95254713,5,Diogo Ferreira Salomão,Right Wing,Wide progressive
+26107.0,-2.9330394,1.4734219,10,Alberto Lopo García,Right Center Back,Aerial commander
+12358.0,0.56766135,4.9858813,6,Haris Medunjanin,Left Defensive Midfield,Defensive anchor
+27243.0,2.1024745,6.7603893,2,Oriol Riera Magem,Right Center Forward,Box-to-box engine
+16083.0,1.3285797,6.4003887,2,José Rodríguez Martínez,Center Forward,Box-to-box engine
+6720.0,2.1023364,2.6445532,5,Pablo Sarabia García,Right Wing,Wide progressive
+27091.0,1.1635865,9.203911,1,Jorge Sammir Cruz Campos,Center Forward,Generalist
+26195.0,-1.017813,11.155083,1,Juan Valera Espín,Right Back,Generalist
+11301.0,0.70023537,9.748877,1,Miguel Alfonso Herrero Javaloyas,Right Center Midfield,Generalist
+26020.0,3.0211444,4.1347165,5,Ángel Lafita Castillo,Left Wing,Wide progressive
+6769.0,-3.0028963,3.8076956,7,Edinaldo Gomes Pereira,Right Center Back,Aggressive stopper
+27092.0,1.2807794,0.8266314,5,Abdoul Karim Yoda,Left Back,Wide progressive
+26252.0,0.6461792,9.774155,1,Diego Castro Giménez,Left Midfield,Generalist
+24035.0,1.6498187,8.156035,1,Álvaro Vázquez García,Center Forward,Generalist
+26087.0,-2.8670576,1.2535161,10,Carlos Gurpegi Nausia,Right Center Back,Aerial commander
+6649.0,-0.18697937,3.697017,6,Óscar de Marcos Arana,Right Back,Defensive anchor
+6789.0,-0.34483337,3.0737321,6,Mikel Balenziaga Oruesagasti,Left Back,Defensive anchor
+6396.0,0.31697288,1.8955616,-1,Beñat Etxebarria Urkiaga,Left Defensive Midfield,Uncategorised
+6576.0,15.317426,2.832371,0,Gorka Iraizoz Moreno,Goalkeeper,Shot-stopper
+6656.0,0.7212648,4.772395,6,Mikel Rico Moreno,Left Defensive Midfield,Defensive anchor
+6388.0,-0.1893194,4.1581736,6,Ander Iturraspe Derteano,Right Defensive Midfield,Defensive anchor
+6390.0,2.0663629,5.1536655,2,Markel Susaeta Laskurain,Right Wing,Box-to-box engine
+4353.0,-1.5468388,-1.2834249,3,Aymeric Laporte,Left Center Back,Possession system elite
+6842.0,1.7496555,-1.7892721,4,Iker Muniain Goñi,Left Wing,Creative playmaker
+6394.0,3.2058318,2.585796,5,Aritz Aduriz Zubeldia,Center Forward,Wide progressive
+11746.0,1.1412597,6.219286,2,Unai López Cabrera,Center Attacking Midfield,Box-to-box engine
+6617.0,1.0276555,6.064661,2,Ibai Gómez Pérez,Left Wing,Box-to-box engine
+23833.0,2.259663,6.4280133,2,Borja Viguera Manzanares,Center Forward,Box-to-box engine
+6802.0,-0.18405154,2.328566,6,Jonathan Castro Otto,Left Back,Defensive anchor
+6794.0,-1.5270222,-0.4030628,9,Gustavo Daniel Cabral Cáceres,Right Center Back,Attacking fullback
+6805.0,-0.75331736,2.4843569,6,Hugo Mallo Novegil,Right Back,Defensive anchor
+6884.0,15.122662,3.1827881,0,Sergio Álvarez Conde,Goalkeeper,Shot-stopper
+6356.0,1.0082141,0.28196582,5,Michael Krohn-Dehli,Left Wing,Wide progressive
+7105.0,1.2063899,-2.5021417,4,Fabián Ariel Orellana Valenzuela,Right Wing,Creative playmaker
+6801.0,1.2846833,2.281909,5,Pedro Pablo Hernández,Center Attacking Midfield,Wide progressive
+6804.0,-1.5323057,-0.30955845,9,Sergi Gómez Solà,Left Center Back,Attacking fullback
+6724.0,1.9930819,-1.1928215,4,Manuel Agudo Durán,Left Wing,Creative playmaker
+6796.0,0.6060036,3.6644754,6,Nemanja Radoja,Left Defensive Midfield,Defensive anchor
+27190.0,0.22863437,11.720791,1,Joaquín Oscar Larrivey,Center Forward,Generalist
+6707.0,3.1233625,4.3357277,5,Charles Días Barbosa de Oliveira,Left Center Forward,Wide progressive
+13552.0,1.0495467,4.3166738,6,Borja Fernández Fernández,Right Defensive Midfield,Defensive anchor
+6386.0,-0.84608144,0.47543722,9,Eneko Bóveda Altube,Right Back,Attacking fullback
+6775.0,-0.42525613,2.374259,6,Daniel García Carrillo,Left Defensive Midfield,Defensive anchor
+24190.0,1.0587748,7.313643,2,Javier Lara Grande,Left Center Midfield,Box-to-box engine
+24508.0,-1.8837862,0.7100264,10,Manuel Castellano Castro,Left Back,Aerial commander
+23942.0,0.12012944,11.274562,1,Abraham Minero Fernández,Left Wing Back,Generalist
+27462.0,13.838397,5.829639,0,Xabier Iruretagoiena Aranzamendi,Goalkeeper,Shot-stopper
+24070.0,1.3239999,0.9357178,5,Saúl Berjón Pérez,Left Wing,Wide progressive
+6699.0,-1.3448162,1.3888832,9,Ander Capa Rodríguez,Right Back,Attacking fullback
+26736.0,-2.3931456,4.0961127,7,Borja Ekiza Imaz,Right Back,Aggressive stopper
+6727.0,-2.8344529,1.2681214,10,Raúl Albentosa Redal,Right Center Back,Aerial commander
+27343.0,-0.7763094,11.94246,1,Jon Errasti Zabalete,Right Center Midfield,Generalist
+23988.0,1.9696174,5.2595973,2,Federico Piovaccari,Left Center Forward,Box-to-box engine
+26684.0,1.0794889,0.39158192,5,Derek Owusu Boateng,Center Defensive Midfield,Wide progressive
+27239.0,-3.0090861,3.0736809,8,Aleksandar Pantić,Left Center Back,Stopper CB
+24139.0,0.63645345,10.403858,1,Luis Eduardo Delgado Pacheco,Center Attacking Midfield,Generalist
+24255.0,15.69014,2.2328398,0,Juan Carlos Martín Corral,Goalkeeper,Shot-stopper
+24811.0,0.60297376,9.663399,1,David Omar Rodríguez Barrera,Left Defensive Midfield,Generalist
+18404.0,-1.1810126,2.336069,6,José Ángel Crespo Rincón,Left Center Back,Defensive anchor
+27238.0,-2.2591221,4.4328985,7,Edimar Curitiba Fraga,Left Back,Aggressive stopper
+23825.0,-0.037654907,-3.3226907,3,Fidel Chaves de la Torre,Left Wing,Possession system elite
+7900.0,2.4134068,-0.6716938,4,Tiago Manuel Dias Correia,Left Wing,Creative playmaker
+3160.0,-1.5761329,4.932286,6,Rene Krhin,Right Defensive Midfield,Defensive anchor
+26573.0,-3.2206779,1.0262848,10,Íñigo López Montaña,Right Center Back,Aerial commander
+27237.0,0.1364843,10.257951,1,Adrián Javier Gunino Duque,Right Back,Generalist
+27236.0,0.33441862,11.127263,1,Patrick Claude Ekeng Ekeng,Center Attacking Midfield,Generalist
+24136.0,0.38751903,11.532545,1,Federico Vico Villegas,Right Wing,Generalist
+6731.0,2.756714,3.7191443,5,Florin Andone,Center Forward,Wide progressive
+6923.0,-1.4173903,4.862844,6,Joaquín Navarro Jiménez,Left Center Back,Defensive anchor
+26612.0,-3.1617908,3.9771476,7,José Manuel Casado Bizcocho,Left Back,Aggressive stopper
+26387.0,1.1162833,6.2355285,2,Edgar Antonio Méndez Ortega,Left Wing,Box-to-box engine
+6383.0,1.331912,6.14522,2,Thomas Teye Partey,Right Midfield,Box-to-box engine
+27460.0,13.725678,6.5431976,0,Julián Cuesta Díaz,Goalkeeper,Shot-stopper
+26432.0,-0.7807796,-0.104189165,9,Miguel Ángel García Pérez Roldán,Left Center Midfield,Attacking fullback
+25824.0,-2.8442445,2.3368833,8,Ángel Trujillo Canorea,Right Center Back,Stopper CB
+27459.0,-2.1840723,4.458773,7,Antonio Marín Molina,Right Back,Aggressive stopper
+26775.0,3.0543492,2.0376391,5,Thievy Guivane Bifouma Koulossa,Center Forward,Wide progressive
+21445.0,0.96268,9.319534,1,Javier Espinosa González,Center Attacking Midfield,Generalist
+25723.0,2.8878415,-0.24377684,4,Wellington Alves da Silva,Right Wing,Creative playmaker
+26435.0,0.2980582,9.846492,1,Fernando Soriano Marco,Center Attacking Midfield,Generalist
+27458.0,1.495665,8.633548,1,Jonathan Sundy Zongo,Left Wing,Generalist
+6755.0,13.891649,5.818323,0,Sergio Asenjo Andrés,Goalkeeper,Shot-stopper
+6772.0,-1.8766634,0.27475128,10,Mario Gaspar Pérez Martínez,Right Back,Aerial commander
+6828.0,-0.80371577,0.28652242,9,Jaume Vicent Costa Jordá,Left Back,Attacking fullback
+6622.0,0.1512147,4.209153,6,Tomás Pina Isla,Right Defensive Midfield,Defensive anchor
+6771.0,0.2768172,2.0601895,-1,Manuel Trigueros Muñoz,Right Defensive Midfield,Uncategorised
+7034.0,-1.7333606,-0.18936783,9,Mateo Pablo Musacchio,Right Center Back,Attacking fullback
+5186.0,2.902311,2.715444,5,Denis Cheryshev,Left Wing,Wide progressive
+5987.0,2.5688326,2.6809433,5,Giovani dos Santos Ramírez,Right Center Forward,Wide progressive
+25921.0,1.7847861,1.1642632,5,Rubén Gracia Calmache,Left Wing,Wide progressive
+22819.0,0.06149451,-1.7052459,4,Bruno Soriano Llido,Left Defensive Midfield,Creative playmaker
+6752.0,-1.8139389,-1.709882,3,Víctor Ruíz Torre,Left Center Back,Possession system elite
+6744.0,2.8261786,2.2297292,5,Luciano Vietto,Right Center Forward,Wide progressive
+6746.0,-1.2219249,-2.3688612,3,Gabriel Armando de Abreu,Left Back,Possession system elite
+5695.0,1.129182,-2.1031125,4,James David Rodríguez Rubio,Right Wing,Creative playmaker
+20215.0,0.08553156,2.8203993,6,Álvaro Arbeloa Coca,Right Back,Defensive anchor
+6671.0,-0.27914235,3.2769628,6,Asier Illarramendi Andonegi,Left Defensive Midfield,Defensive anchor
+26607.0,0.3093075,4.436657,6,José Raúl Baena Urdiales,Left Defensive Midfield,Defensive anchor
+26070.0,15.726178,2.1971648,0,Antonio Rodríguez Martínez,Goalkeeper,Shot-stopper
+27396.0,-3.4260669,2.959164,8,Jorge García Morcillo,Left Center Back,Stopper CB
+27184.0,-2.703328,3.262012,8,Marcos Alberto Angeleri,Right Center Back,Stopper CB
+10868.0,2.6497452,3.5547285,5,Ricardo Jorge Luz Horta,Left Midfield,Wide progressive
+6783.0,2.2859783,3.3361712,5,Samuel García Sánchez,Right Midfield,Wide progressive
+27335.0,-0.029157443,-1.7069215,4,Arthur Etienne Boka,Left Back,Creative playmaker
+6665.0,-1.7774606,-1.4760373,3,Íñigo Martínez Berridi,Left Center Back,Possession system elite
+6673.0,1.6084803,0.605447,5,Sergio Canales Madrazo,Center Attacking Midfield,Wide progressive
+6674.0,-1.8980068,0.5364638,10,Alberto De La Bella Madureño,Left Back,Aerial commander
+6694.0,15.371792,2.7399495,0,Gerónimo Rulli,Goalkeeper,Shot-stopper
+16622.0,-2.9891543,1.7587136,10,Mikel González de Martín Martínez,Right Center Back,Aerial commander
+8724.0,-1.3197927,-0.10755248,9,Carlos Martínez Díez,Right Back,Attacking fullback
+6899.0,0.3311864,1.8656375,-1,Rubén Pardo Gutiérrez,Left Defensive Midfield,Uncategorised
+6690.0,0.6373386,-0.074509665,5,Xabier Prieto Argarate,Right Wing,Wide progressive
+6770.0,1.1390679,4.9673104,6,Esteban Félix Granero Molina,Right Defensive Midfield,Defensive anchor
+5560.0,2.1521995,-0.80146486,4,Carlos Alberto Vela Garrido,Right Wing,Creative playmaker
+6633.0,1.0427344,6.921735,2,Markel Bergara Larrañaga,Left Defensive Midfield,Box-to-box engine
+6740.0,0.82842547,-0.065544456,5,Gonzalo Castro Irizábal,Left Midfield,Wide progressive
+5514.0,1.4157189,8.857975,1,Alfreð Finnbogason,Center Forward,Generalist
+20669.0,0.09834106,-0.38285267,5,Tiago Cardoso Mendes,Left Defensive Midfield,Wide progressive
+5199.0,1.0594712,0.4672886,5,Jorge Resurrección Merodio,Left Midfield,Wide progressive
+4788.0,-1.4270307,2.3616586,6,Jesús Gámez Duarte,Left Back,Defensive anchor
+7069.0,14.230685,4.9182835,0,Miguel Ángel Moyà Rumbo,Goalkeeper,Shot-stopper
+6375.0,0.07664229,-1.4962826,4,Juan Francisco Torres Belén,Right Back,Creative playmaker
+5487.0,2.6067388,2.3780522,5,Antoine Griezmann,Left Center Forward,Wide progressive
+5249.0,-2.7916622,1.3735187,10,Diego Roberto Godín Leal,Left Center Back,Aerial commander
+6384.0,0.27911678,1.923105,-1,Gabriel Fernández Arenas,Right Defensive Midfield,Uncategorised
+5259.0,-2.7689617,2.9696898,8,José María Giménez de Vargas,Right Center Back,Stopper CB
+11094.0,2.2441046,-0.5821535,4,Arda Turan,Left Center Midfield,Creative playmaker
+5472.0,-0.13322333,11.829731,1,Mario Mandžukić,Center Forward,Generalist
+6382.0,2.510879,6.1363745,2,Fernando José Torres Sanz,Left Center Forward,Box-to-box engine
+6391.0,1.5121584,6.7987165,2,Raúl García Escudero,Center Attacking Midfield,Box-to-box engine
+26780.0,-0.14852598,-0.37680268,5,Guilherme Magdalena Siqueira,Left Back,Wide progressive
+26764.0,-3.157376,3.9657006,7,Jon Ansotegi Gorostola,Left Center Back,Aggressive stopper
+3023.0,-0.84157276,0.25351036,9,Yuri Berchiche Izeta,Left Back,Attacking fullback
+6357.0,1.05865,3.7843275,6,Jonathan dos Santos Ramírez,Right Midfield,Defensive anchor
+11675.0,2.3377047,2.5684955,5,Moisés Gómez Bordonado,Left Wing,Wide progressive
+23930.0,2.712005,0.20193565,4,Ikechukwu Uche,Right Center Forward,Creative playmaker
+6627.0,-1.2036706,1.4946454,9,Damián Nicolás Suárez Suárez,Right Back,Attacking fullback
+6557.0,0.49101925,3.5801144,6,Adrián González Morales,Center Attacking Midfield,Defensive anchor
+27206.0,-2.8248613,4.308651,7,Sergio Pelegrín López,Left Center Back,Aggressive stopper
+26238.0,1.864229,-1.5448582,4,Domingo Cisma González,Left Back,Creative playmaker
+16456.0,-2.7796342,1.2341102,10,Enzo Pablo Roco Roco,Left Center Back,Aerial commander
+5724.0,1.1635531,0.37247953,5,Fayçal Fajr,Left Midfield,Wide progressive
+15893.0,2.5819376,2.4391003,5,Víctor Rodríguez Romero,Center Attacking Midfield,Wide progressive
+9082.0,14.622722,4.2968726,0,Przemysław Tytoń,Goalkeeper,Shot-stopper
+25849.0,1.6774596,6.967344,2,Aarón Níguez Esclapez,Left Wing,Box-to-box engine
+11603.0,0.5632185,10.647327,1,Mario Pašalić,Left Center Midfield,Generalist
+8584.0,2.4260333,6.3901544,2,Jonathas Cristian de Jesus,Center Forward,Box-to-box engine
+27245.0,-1.3196514,1.1354383,9,José Eduardo Albácar Gallego,Left Back,Attacking fullback
+6702.0,-2.8346696,1.7993219,10,David Rodríguez Lombán,Left Center Back,Aerial commander
+26102.0,3.3687613,3.1179826,5,Ferrán Corominas Telechea,Right Wing,Wide progressive
+18721.0,3.2684262,3.0584915,5,Robert Ibáñez Castro,Right Wing,Wide progressive
+23761.0,2.500029,-0.6628842,4,Alhassane Bangoura,Right Wing,Creative playmaker
+6692.0,14.505655,4.465919,0,Oier Olazábal Paredes,Goalkeeper,Shot-stopper
+6861.0,-2.804458,1.9876795,10,Juan Torres Ruiz,Left Center Back,Aerial commander
+8817.0,2.3628747,-0.6968237,4,Jhon Andrés Córdoba Copete,Left Center Forward,Creative playmaker
+6680.0,1.1783999,1.3096457,5,Rubén Rochina Naixes,Center Attacking Midfield,Wide progressive
+23488.0,-0.72578907,11.917821,1,Mario Suárez Mata,Left Defensive Midfield,Generalist
+6378.0,13.904306,5.873808,0,Jan Oblak,Goalkeeper,Shot-stopper
+6381.0,0.9375096,6.185951,2,Saúl Ñíguez Esclapez,Left Center Midfield,Box-to-box engine
+3324.0,-2.8546634,1.230559,10,Eric Bertrand Bailly,Right Center Back,Aerial commander
+4741.0,-1.305382,2.3971949,6,Juan Rafael Fuentes Hernández,Left Back,Defensive anchor
+5200.0,2.2105203,1.2981287,5,Lucas Vázquez Iglesias,Right Wing,Wide progressive
+6706.0,14.6107235,4.300235,0,Francisco Casilla Cortés,Goalkeeper,Shot-stopper
+6709.0,-1.010643,0.57053053,9,Anaitz Arbilla Zabala,Right Back,Attacking fullback
+24072.0,1.0957164,0.3904754,5,Salvador Sevilla López,Center Attacking Midfield,Wide progressive
+6758.0,1.1491625,7.021781,2,Víctor Sánchez Mata,Right Defensive Midfield,Box-to-box engine
+6767.0,2.8699188,3.108402,5,Sergio García De La Fuente,Center Forward,Wide progressive
+18407.0,0.44147906,3.5816977,6,José Alberto Cañas Ruiz Herrera,Left Defensive Midfield,Defensive anchor
+7781.0,2.5335824,5.7032676,2,Felipe Salvador Caicedo Corozo,Center Forward,Box-to-box engine
+6762.0,-3.0472414,0.85032046,10,Álvaro González Soberón,Right Center Back,Aerial commander
+5573.0,-1.1830333,-1.9288838,3,Héctor Alfredo Moreno Herrera,Left Center Back,Possession system elite
+27148.0,0.842926,3.4113314,6,Abraham González Casanova,Left Center Midfield,Defensive anchor
+6351.0,0.14586203,11.763366,1,Cristhian Ricardo Stuani Curbelo,Left Center Forward,Generalist
+6738.0,-0.40008473,-0.36478972,5,Juan Francisco Moreno Fuertes,Right Back,Wide progressive
+26776.0,2.6443377,2.610914,5,Juan Isaac Cuenca López,Left Midfield,Wide progressive
+6734.0,1.3380871,2.390032,5,Luis Carlos Correia Pinto,Left Back,Wide progressive
+3090.0,-2.6407292,3.6060147,8,Nicolás Hernán Otamendi,Left Center Back,Stopper CB
+25144.0,14.318261,4.7779646,0,Diego Alves Carreira,Goalkeeper,Shot-stopper
+6595.0,0.42535174,3.9105911,6,Daniel Parejo Muñoz,Right Center Midfield,Defensive anchor
+3638.0,-2.410716,0.9778652,10,Shkodran Mustafi,Right Center Back,Aerial commander
+6402.0,1.668251,8.192697,1,Francisco Alcácer García,Center Forward,Generalist
+10802.0,1.9231118,1.3204349,5,André Filipe Tavares Gomes,Left Center Midfield,Wide progressive
+5718.0,3.013633,2.630875,5,Rodrigo Moreno Machado,Right Wing,Wide progressive
+6751.0,0.65020746,4.873522,6,Javier Fuego Martínez,Center Defensive Midfield,Defensive anchor
+18724.0,1.0153615,-0.16211578,5,Sofiane Feghouli,Right Wing,Wide progressive
+27480.0,-0.23378222,3.288872,6,Lucas Alfonso Orbán Alegre,Left Back,Defensive anchor
+6663.0,-1.1926925,1.1105983,9,Antonio Barragán Fernández,Right Back,Attacking fullback
+6596.0,-0.7063293,0.24659753,9,José Luis Gayà Peña,Left Back,Attacking fullback
+7005.0,0.17722405,-0.15062056,5,João Pedro Cavaco Cancelo,Right Back,Wide progressive
+20542.0,3.195293,2.6567216,5,Álvaro Negredo Sánchez,Center Forward,Wide progressive
+7797.0,2.046024,2.6091719,5,Rodrigo Javier De Paul,Left Wing,Wide progressive
+6567.0,2.2073374,3.1790702,5,Borja García Freire,Left Wing,Wide progressive
+27250.0,2.5111613,5.838923,2,Nabil Ghilas,Right Center Forward,Box-to-box engine
+24617.0,-0.16154487,10.412996,1,Eduard Campabadal Claros,Right Back,Generalist
+6728.0,3.1540308,2.8034902,5,Federico Nicolás Cartabia,Right Wing,Wide progressive
+27249.0,0.8853237,9.472814,1,Fausto Rossi,Left Defensive Midfield,Generalist
+6612.0,-0.880674,3.5511522,-1,Rubén Duarte Sánchez,Left Back,Uncategorised
+27241.0,0.16576017,3.8143034,6,Víctor Guillermo Álvarez Delgado,Left Wing,Defensive anchor
+24578.0,2.098112,5.669985,2,Francisco Montañés Claverías,Right Midfield,Box-to-box engine
+6733.0,0.31869552,4.275744,6,Pedro Mosquera Parada,Left Defensive Midfield,Defensive anchor
+27464.0,0.26190794,11.285884,1,José Ángel Alonso Martín,Center Defensive Midfield,Generalist
+16001.0,1.02601,10.066016,1,Garry Mendes Rodrigues,Left Midfield,Generalist
+24053.0,0.8726284,10.33575,1,Álvaro Giménez Candela,Center Defensive Midfield,Generalist
+27461.0,-3.348441,4.209357,7,Francisco Manuel Vélez Jiménez,Left Center Back,Aggressive stopper
+6730.0,13.96316,5.764571,0,Rubén Iván Martínez Andrade,Goalkeeper,Shot-stopper
+27246.0,-0.4349591,10.436561,1,Sebastián Dubarbier,Left Back,Generalist
+24127.0,0.03383647,11.692534,1,Ramon Olamilekan Azeez,Center Attacking Midfield,Generalist
+24149.0,-0.09328445,2.3876681,6,José Antonio García Rabasco,Right Defensive Midfield,Defensive anchor
+23843.0,15.353791,2.776156,0,Diego Mariño Villar,Goalkeeper,Shot-stopper
+27122.0,-1.3125862,2.885437,6,Simão Mate,Center Defensive Midfield,Defensive anchor
+6778.0,-3.147579,0.95760137,10,Iván Ramis Barrios,Left Center Back,Aerial commander
+27123.0,1.9825296,5.287013,2,Jordi Xumetra Feliu,Right Midfield,Box-to-box engine
+26012.0,-3.1737897,0.9382046,10,David Navarro Pedrós,Right Center Back,Aerial commander
+6867.0,-0.126762,4.210595,6,Papa Kouly Diop,Right Defensive Midfield,Defensive anchor
+26248.0,2.0296865,6.720939,2,David Barral Torres,Center Forward,Box-to-box engine
+6784.0,-0.41428107,-0.30344605,5,Antonio García Aranda,Left Back,Wide progressive
+6668.0,2.3416045,2.4604607,5,José Luis Morales Nogales,Left Midfield,Wide progressive
+8801.0,-1.1443301,2.0352712,6,Iván López Mendoza,Right Back,Defensive anchor
+26495.0,1.8814735,1.6356477,5,Kalu Uche,Left Center Forward,Wide progressive
+23791.0,1.9002556,-0.7818272,4,Víctor Casadesús Castaño,Left Center Forward,Creative playmaker
+23970.0,0.15706877,2.8430846,6,José María Martín-Bejarano Serrano,Center Defensive Midfield,Defensive anchor
+6691.0,2.9219444,0.9801322,4,David Remeseiro Salgueiro,Left Midfield,Creative playmaker
+6389.0,0.000744288,3.8295274,6,Mikel San José Domínguez,Right Defensive Midfield,Defensive anchor
+6788.0,-2.271204,0.7636483,10,Xabier Etxeita Gorritxategi,Right Center Back,Aerial commander
+6886.0,0.07537506,10.457251,1,Dídac Vilá Rosselló,Left Back,Generalist
+6693.0,-2.685519,4.5907946,7,Raúl Rodríguez Navas,Center Back,Aggressive stopper
+11294.0,-0.34704477,11.793003,1,Borja Fernández Fernández,Center Defensive Midfield,Generalist
+24507.0,0.25262964,11.302773,1,Manuel del Moral Fernández,Left Center Forward,Generalist
+27517.0,14.4350815,4.5728707,0,Jaime Jiménez Merlo,Goalkeeper,Shot-stopper
+6890.0,-1.2098113,-2.069737,3,Andreu Fontàs Prat,Left Center Back,Possession system elite
+19668.0,1.7182091,2.5745726,5,Augusto Matías Fernández,Center Defensive Midfield,Wide progressive
+6594.0,2.4492986,5.640424,2,Santiago Mina Lorenzo,Right Wing,Box-to-box engine
+6787.0,-0.5197123,2.305161,6,Pedro López Muñoz,Right Back,Defensive anchor
+24860.0,-3.2940302,1.4072357,10,Héctor Rodas Ramírez,Right Center Back,Aerial commander
+27240.0,13.762385,6.1636167,0,Jesús Fernández Collado,Goalkeeper,Shot-stopper
+6659.0,1.8506812,1.8085502,5,Víctor Camarasa Ferrando,Left Center Midfield,Wide progressive
+23943.0,2.4845753,3.9589105,5,Rubén García Santos,Left Midfield,Wide progressive
+23382.0,3.1642401,1.8796386,5,Mohamed Lamine Sissoko Gillan,Right Center Midfield,Wide progressive
+27483.0,-1.1664469,-2.0899,3,Benoît Trémoulinas,Left Back,Possession system elite
+3497.0,0.4206369,4.765333,6,Vicente Iborra De La Fuente,Center Attacking Midfield,Defensive anchor
+6823.0,15.476704,2.564098,0,Sergio Rico González,Goalkeeper,Shot-stopper
+23816.0,0.35117796,3.9347956,6,José Antonio Reyes Calderón,Right Wing,Defensive anchor
+6647.0,-3.1270847,1.0646045,10,Zouhair Feddal,Left Center Back,Aerial commander
+6712.0,1.0580806,6.850997,2,Gonzalo Escalante,Right Defensive Midfield,Box-to-box engine
+6566.0,1.3070983,9.042775,1,Borja González Tomás,Center Forward,Generalist
+6837.0,-2.8096685,2.9876633,8,Mauro Javier Dos Santos,Right Center Back,Stopper CB
+10763.0,14.16802,5.0024495,0,Asier Riesgo Unamuno,Goalkeeper,Shot-stopper
+6776.0,-1.2793549,1.3149678,9,David Juncà Reñé,Left Back,Attacking fullback
+26023.0,-2.1103804,0.6607996,10,Juan Francisco García García,Left Back,Aerial commander
+6742.0,1.6526706,5.942481,2,Sergio Gontán Gallardo,Right Midfield,Box-to-box engine
+5678.0,0.06604059,3.4730802,6,Jefferson Andrés Lerma Solís,Right Center Midfield,Defensive anchor
+5687.0,2.5253658,3.5277445,5,Takashi Inui,Left Wing,Wide progressive
+6700.0,1.2690892,8.927082,1,Sergio Enrich Ametller,Center Forward,Generalist
+25134.0,0.8924712,9.421983,1,Deyverson Brum Silva Acosta,Left Center Forward,Generalist
+3486.0,1.655314,8.008181,1,Fernando Llorente Torres,Center Forward,Generalist
+26753.0,15.637546,2.326966,0,Javier Varas Herrera,Goalkeeper,Shot-stopper
+7907.0,-1.7039961,-0.67689663,9,Pedro Bigas Rigo,Left Center Back,Attacking fullback
+6932.0,0.21817632,-1.5905733,4,Dani Castellano Betancor,Left Back,Creative playmaker
+27522.0,-2.3162892,0.82877874,10,Antolín Alcáraz Viveros,Right Center Back,Aerial commander
+10755.0,1.9425339,-1.0955327,4,Jonathan Viera Ramos,Left Wing,Creative playmaker
+7906.0,0.54374784,0.11873358,5,David Simón Rodríguez Santana,Right Back,Wide progressive
+8440.0,-1.9826965,-1.5122323,3,Aythami Artiles Oliva,Right Center Back,Possession system elite
+3610.0,1.2597313,-2.056765,4,Roque Mesa Quevedo,Right Defensive Midfield,Creative playmaker
+10476.0,-1.5048037,-1.562368,3,Timothée Kolodziejczak,Left Center Back,Possession system elite
+15805.0,1.1293377,0.018682215,5,Hernán Daniel Santana Trujillo,Center Defensive Midfield,Wide progressive
+7948.0,-2.1536813,0.59729147,10,Marco Andreolli,Right Center Back,Aerial commander
+7788.0,1.3621453,8.822105,1,Ciro Immobile,Center Forward,Generalist
+6626.0,2.4713748,0.6378934,4,Mubarak Wakaso,Left Midfield,Creative playmaker
+8167.0,2.9457753,2.3134294,5,Sergio Ezequiel Araújo,Center Forward,Wide progressive
+7154.0,1.1450404,4.794922,6,Sebastián Carlos Cristóforo Pepe,Left Defensive Midfield,Defensive anchor
+6608.0,2.577655,-0.45550495,4,Nabil El Zhar,Right Midfield,Creative playmaker
+27521.0,2.011549,-0.7406142,4,Juan Emmanuel Culio,Left Center Midfield,Creative playmaker
+6929.0,1.4927998,-1.7300919,4,José Vicente Gómez Umpiérrez,Left Defensive Midfield,Creative playmaker
+27457.0,14.227099,4.915881,0,Manuel Fernández Muñíz,Goalkeeper,Shot-stopper
+27403.0,-1.6343266,-0.39371863,9,Santiago Vergini,Right Center Back,Attacking fullback
+220761.0,-0.9723064,4.6897216,6,Miguel Ángel Muñoz Alonso,Right Back,Defensive anchor
+6869.0,-2.8709815,1.8310055,10,Alejandro Arribas Garrido,Right Center Back,Aerial commander
+6736.0,1.6177124,2.7103064,5,Álvaro Medrán Just,Right Defensive Midfield,Wide progressive
+6913.0,-1.2570885,0.841105,9,Fernando Navarro i Corbacho,Left Back,Attacking fullback
+6856.0,-0.8842837,4.1589055,-1,Carlos Martín Vigaray,Left Back,Uncategorised
+23416.0,3.1990044,2.4335597,5,Stefan Šćepović,Center Forward,Wide progressive
+27656.0,-2.0412974,-1.2844187,3,Carl Medjani,Right Center Back,Possession system elite
+6844.0,-1.337934,2.029972,6,Federico Ricca Rostagnol,Left Back,Defensive anchor
+5577.0,14.507449,4.460756,0,Francisco Guillermo Ochoa Magaña,Goalkeeper,Shot-stopper
+6764.0,1.0885152,-0.16768779,5,Pablo Fornals Malla,Left Defensive Midfield,Wide progressive
+27463.0,2.9935853,1.5611999,5,Mauricio Andrés Cuero Castillo,Right Midfield,Wide progressive
+16723.0,-2.9830327,2.7632823,8,Egor Filipenko,Left Center Back,Stopper CB
+8419.0,2.3245745,5.43213,2,Duje Čop,Left Center Forward,Box-to-box engine
+7141.0,3.0617774,3.382508,5,Giuseppe Rossi,Left Center Forward,Wide progressive
+3084.0,2.7610478,0.31201312,4,Christian Atsu Twasam,Right Midfield,Creative playmaker
+26211.0,1.7119995,-1.3538538,4,Joan Verdú Fernández,Right Midfield,Creative playmaker
+6792.0,14.429688,4.575823,0,Pau López Sabata,Goalkeeper,Shot-stopper
+5719.0,1.982974,1.2646683,5,Marco Asensio Willemsen,Center Attacking Midfield,Wide progressive
+6675.0,-1.1751946,1.4638958,9,Antonio Manuel Luna Rodríguez,Left Back,Attacking fullback
+6766.0,2.8954313,2.2773628,5,Gerard Moreno Balaguero,Center Forward,Wide progressive
+5598.0,-2.7969956,2.9713314,8,Óscar Esau Duarte Gaitán,Left Center Back,Stopper CB
+6791.0,-0.8515695,2.765239,6,Javier López Rodríguez,Right Back,Defensive anchor
+6838.0,2.9810092,2.6497629,5,Hernán Arsenio Pérez González,Right Wing,Wide progressive
+23974.0,0.13750075,-0.09371432,5,Roberto Antonio Correa Silva,Right Back,Wide progressive
+23924.0,1.2544858,9.010297,1,Mamadou Sylla Diallo,Center Forward,Generalist
+6934.0,1.2485739,-2.1255703,4,Jerónimo Figueroa Cabrera,Left Midfield,Creative playmaker
+7692.0,-1.2940023,-2.1927328,3,Mauricio Lemos Merladet,Right Center Back,Possession system elite
+7905.0,15.088074,3.248735,0,Raúl Lizoáin Cruz,Goalkeeper,Shot-stopper
+6928.0,2.3595521,0.8104102,4,Pedro Taunausú Domínguez Placeres,Center Attacking Midfield,Creative playmaker
+6927.0,-1.5747656,-1.4705715,3,David García Santana,Right Back,Possession system elite
+6721.0,3.1893468,2.641752,5,Willian José da Silva,Center Forward,Wide progressive
+13107.0,0.88385826,6.1784916,2,Sergio Álvarez Díaz,Right Defensive Midfield,Box-to-box engine
+24263.0,-0.45326397,2.4231389,6,Ismael López Blanco,Left Back,Defensive anchor
+8818.0,-2.79948,1.9430512,10,Jorge Meré Pérez,Left Center Back,Aerial commander
+6610.0,14.145995,5.0614433,0,Iván Cuéllar Sacristán,Goalkeeper,Shot-stopper
+6602.0,0.82326573,10.453156,1,Miguel Ángel Guerrero Martín,Center Forward,Generalist
+6860.0,15.779882,1.806093,0,Mariano Damián Barbosa,Goalkeeper,Shot-stopper
+6561.0,-3.038911,0.60318977,10,Luis Hernández Rodríguez,Right Center Back,Aerial commander
+6581.0,1.6901573,0.8848803,5,Jonathan Rodríguez Menéndez,Left Wing,Wide progressive
+27526.0,0.68852377,3.9170988,6,Rachid Aït-Atmane,Left Defensive Midfield,Defensive anchor
+6880.0,2.5223522,5.166589,2,Arnaldo Antonio Sanabria Ayala,Center Forward,Box-to-box engine
+26633.0,-1.2384374,1.2073449,9,Alberto Lora Ramos,Right Back,Attacking fullback
+5588.0,-1.0600468,0.021444952,9,Antonio Rukavina,Left Back,Attacking fullback
+6827.0,-1.5041231,-1.5413886,3,Daniele Bonera,Right Center Back,Possession system elite
+23848.0,1.2486858,6.2381377,2,Carlos Carmona Bonet,Right Wing,Box-to-box engine
+18867.0,2.5983531,3.1166883,5,Matías Nahuel Leiva Esquivel,Right Midfield,Wide progressive
+24173.0,3.1880352,3.588997,5,Carlos Castro García,Center Forward,Wide progressive
+6926.0,1.7769433,-1.6966244,4,Alen Halilović,Center Attacking Midfield,Creative playmaker
+6862.0,2.4968443,5.7384524,2,Cédric Bakambu,Left Center Forward,Box-to-box engine
+25057.0,0.6506788,9.594121,1,Alejandro Barrera García,Center Attacking Midfield,Generalist
+4711.0,0.9100785,0.13262275,5,Pablo Hernández Domínguez,Center Attacking Midfield,Wide progressive
+11298.0,-1.2012037,1.4736625,9,José Ignacio Martínez García,Left Back,Attacking fullback
+10612.0,15.661078,2.2772233,0,Yoel Rodríguez Oterino,Goalkeeper,Shot-stopper
+6713.0,-0.78360397,0.2486869,9,Diego Javier Llorente Ríos,Right Center Back,Attacking fullback
+11539.0,1.9515301,1.5821354,5,Adrián Embarba Blázquez,Right Wing,Wide progressive
+26685.0,1.647614,8.293328,1,Nicolás Ladislao Fedor Flores,Center Forward,Generalist
+11542.0,3.1807683,4.3366814,5,Javier Guerra Rodríguez,Center Forward,Wide progressive
+10727.0,-1.5334961,-1.4975388,3,Răzvan Dincă Raț,Left Back,Possession system elite
+27349.0,-3.0459597,2.4310536,8,Heiko Westermann,Left Center Back,Stopper CB
+8803.0,14.362536,4.6910324,0,Daniel Giménez Hernández,Goalkeeper,Shot-stopper
+6832.0,1.8729901,-1.7930759,4,Rubén Castro Martín,Center Forward,Creative playmaker
+27402.0,-2.187307,4.243166,7,Álvaro Daniel Pereira Barragán,Left Back,Aggressive stopper
+7161.0,-2.9043722,2.3548696,8,Germán Alejandro Pezzella,Right Center Back,Stopper CB
+27347.0,-1.6114943,-1.527579,3,Juan Manuel Vargas Risco,Left Back,Possession system elite
+5671.0,0.9246439,6.085968,2,Alfred John Momar N''Diaye,Left Defensive Midfield,Box-to-box engine
+6697.0,1.7886232,0.80629694,5,Daniel Ceballos Fernández,Center Attacking Midfield,Wide progressive
+27346.0,1.5000168,6.921734,2,Petros Matheus dos Santos Araújo,Right Defensive Midfield,Box-to-box engine
+6651.0,1.8133326,-1.5269791,4,Joaquín Sánchez Rodríguez,Right Midfield,Creative playmaker
+6630.0,3.15055,2.8535366,5,Jorge Molina Vidal,Right Center Forward,Wide progressive
+3601.0,3.1331084,1.9484657,5,Charly Musonda Junior,Left Midfield,Wide progressive
+6655.0,2.3574686,2.9294612,5,Fabián Ruiz Peña,Center Attacking Midfield,Wide progressive
+24132.0,-1.4420161,-1.322442,3,Francisco Miguel Varela Martín,Left Back,Possession system elite
+26209.0,-1.2858508,-1.7120302,3,Manuel Pablo García Díaz,Left Back,Possession system elite
+20086.0,13.760513,6.371528,0,Stipe Pletikosa,Goalkeeper,Shot-stopper
+5539.0,1.2859244,2.5583177,5,Carlos Henrique Casimiro,Center Defensive Midfield,Wide progressive
+5597.0,15.124344,3.183146,0,Keylor Navas Gamboa,Goalkeeper,Shot-stopper
+6807.0,-0.89468515,-1.8334717,3,Roberto Suárez Pier,Left Back,Possession system elite
+6392.0,1.6294364,1.0483711,5,Íñigo Lekue Martínez,Left Wing,Wide progressive
+24711.0,1.0351051,6.200595,2,David Carmona Sierra,Right Back,Box-to-box engine
+30454.0,1.8020319,2.653881,5,Francisco José Sánchez Rodríguez,Right Wing,Wide progressive
+23802.0,0.7140426,10.579667,1,Juan Muñoz Muñoz,Center Forward,Generalist
+6749.0,-0.2384291,2.5389297,6,Diego González Polanco,Left Center Back,Defensive anchor
+5737.0,-0.3959852,2.60608,6,Steven N''Kemboanza Mike Christopher Nzonzi,Left Defensive Midfield,Defensive anchor
+3253.0,-1.8646023,-1.6492066,3,Adil Rami,Right Center Back,Possession system elite
+8523.0,1.7618035,-1.7001758,4,Yevhen Konoplyanka,Left Wing,Creative playmaker
+6393.0,3.107184,2.6941538,5,Iñaki Williams Arthuer,Right Wing,Wide progressive
+12191.0,-0.47142226,4.47555,6,Gorka Elustondo Urkola,Right Defensive Midfield,Defensive anchor
+7577.0,-0.6034382,2.368683,6,Carles Planas Antolínez,Left Back,Defensive anchor
+6376.0,-2.8602693,1.2007519,10,Stefan Savić,Right Center Back,Aerial commander
+27341.0,0.17705907,-1.3526039,4,Marcelo Alfonso Díaz Rojas,Left Defensive Midfield,Creative playmaker
+6797.0,0.14539723,-1.3358985,4,Daniel Wass,Right Center Midfield,Creative playmaker
+6038.0,1.6150897,8.2762985,1,John Guidetti,Center Forward,Generalist
+6320.0,0.13005507,-1.1477542,4,Filipe Luís Kasmirski,Left Back,Creative playmaker
+23785.0,2.858693,-0.24466546,4,Théo Bongonda Mbul''Ofeko Batombo,Left Wing,Creative playmaker
+5633.0,2.6450255,-0.6383752,4,Yannick Ferreira Carrasco,Left Midfield,Creative playmaker
+16539.0,-1.8543826,-0.04248886,9,Diego Antonio Reyes Rosales,Right Center Back,Attacking fullback
+6898.0,14.56999,4.3599377,0,Jaume Doménech Sánchez,Goalkeeper,Shot-stopper
+6592.0,-1.7186472,2.5582902,6,Rúben Miguel Nunes Vezo,Left Center Back,Defensive anchor
+10037.0,2.0807476,5.344232,2,Danilo Barbosa da Silva,Right Center Midfield,Box-to-box engine
+6669.0,1.9130882,1.7482305,5,David Zurutuza Veillet,Left Wing,Wide progressive
+6906.0,0.87467843,10.247846,1,Jon Bautista Orgilles,Center Forward,Generalist
+6685.0,2.311484,5.4412313,2,Mikel Oyarzabal Ugarte,Left Wing,Box-to-box engine
+27482.0,-2.44106,0.94739467,10,Aderllan Leandro de Jesus Santos,Left Center Back,Aerial commander
+6679.0,-0.9992117,0.61029476,9,Aritz Elustondo Irribaria,Right Back,Attacking fullback
+6763.0,1.9075179,6.820168,2,Pablo Daniel Piatti,Left Wing,Box-to-box engine
+31469.0,3.1317825,4.595343,5,Andrés Pascual Santoja,Left Wing,Wide progressive
+8522.0,2.623625,-0.60073674,4,Armindo Tué Na Bangna,Left Wing,Creative playmaker
+6676.0,-0.40019876,-3.0516822,3,Igor Zubeldia Elorza,Right Center Back,Possession system elite
+6377.0,2.7788029,3.6957967,5,Ángel Martín Correa,Right Midfield,Wide progressive
+9403.0,1.4243671,6.1603365,2,Izet Hajrović,Left Wing,Box-to-box engine
+9462.0,2.6936064,2.85188,5,José Ignacio Peleteiro Ramallo,Center Attacking Midfield,Wide progressive
+25997.0,2.087503,2.7513747,5,Jonás Manuel Gutiérrez,Left Wing,Wide progressive
+24453.0,0.5656097,9.657967,1,Josip Radošević,Right Defensive Midfield,Generalist
+16426.0,3.0033255,3.3659208,5,Wanderson Maciel Sousa Campos,Left Wing,Wide progressive
+6872.0,-2.870969,2.5781243,8,Bruno González Cabrera,Left Center Back,Stopper CB
+6654.0,14.158512,5.0554075,0,Antonio Adán Garrido,Goalkeeper,Shot-stopper
+27348.0,1.7185199,7.951909,1,Ricky van Wolfswinkel,Right Center Forward,Generalist
+23994.0,-0.22375317,4.4955754,6,Alejandro Menéndez Díez,Left Wing,Defensive anchor
+186264.0,1.8378298,-1.288559,4,Foued Kadir,Right Wing,Creative playmaker
+16332.0,-2.8251905,4.606625,7,Ognjen Vranješ,Right Back,Aggressive stopper
+7158.0,-1.829937,1.1893133,-1,Cristiano Biraghi,Left Back,Uncategorised
+6599.0,-0.05225115,4.2948356,6,Rubén Salvador Pérez Del Mármol,Right Defensive Midfield,Defensive anchor
+8697.0,14.587668,4.341584,0,Andrés Eduardo Fernández Moreno,Goalkeeper,Shot-stopper
+16338.0,1.0393915,4.5650578,6,Uche Henry Agbo,Left Center Midfield,Defensive anchor
+6847.0,2.3735442,6.508085,2,Adalberto Peñaranda Maestre,Right Center Forward,Box-to-box engine
+26781.0,-2.9690206,2.3357491,8,Diego Mainz García,Right Center Back,Stopper CB
+7170.0,1.3466907,8.88529,1,Simone Verdi,Center Attacking Midfield,Generalist
+20064.0,-1.0302738,2.4244404,6,Hugo Miguel Almeida Costa Lopes,Right Back,Defensive anchor
+26009.0,3.227201,2.6430852,5,Roberto Soldado Rillo,Left Center Forward,Wide progressive
+6605.0,-1.345763,2.6846638,6,Joseba Zaldúa Bengoetxea,Right Back,Defensive anchor
+6935.0,-0.79594576,0.2038379,9,Adrián Marín Gómez,Left Back,Attacking fullback
+6735.0,2.4925277,0.41280782,4,Adrián López Álvarez,Left Center Forward,Creative playmaker
+10754.0,0.37988424,-0.049036052,5,Héctor Hernández Ortega,Left Back,Wide progressive
+21210.0,-0.54759437,-0.105882645,5,Mariano Ferreira Filho,Right Back,Wide progressive
+26723.0,2.2924266,2.9447389,5,Álvaro Cejudo Carmona,Right Wing,Wide progressive
+5484.0,-2.5310342,3.2162137,8,Lucas Hernández Pi,Left Center Back,Stopper CB
+26783.0,2.8423023,1.4915011,-1,Roque Luis Santa Cruz Cantero,Right Center Forward,Uncategorised
+31904.0,14.078094,5.263057,0,Giedrius Arlauskis,Goalkeeper,Shot-stopper
+6624.0,1.9152493,-1.4491085,4,Jorge Franco Alviz,Left Wing,Creative playmaker
+6701.0,0.80894154,3.5074484,6,Joan Jordán Moreno,Left Defensive Midfield,Defensive anchor
+15602.0,-0.0060444125,-3.3188965,3,Juan Carlos Valerón Santana,Center Attacking Midfield,Possession system elite
+19454.0,-2.8280292,1.2809457,10,Ricardo Miguel Moreira da Costa,Left Center Back,Aerial commander
+3292.0,1.9374622,3.5818615,5,Abdoulaye Doucouré,Left Defensive Midfield,Wide progressive
+26222.0,-1.6134913,-1.2455486,3,José Eduardo Rosa Vale de Castro,Right Center Back,Possession system elite
+18925.0,0.8177824,4.380204,6,Ignacio Cases Mora,Left Defensive Midfield,Defensive anchor
+40822.0,3.0631614,0.6145934,4,Daniel Arnaud N''Di	,Center Attacking Midfield,Creative playmaker
+4406.0,-1.6311818,-0.25138453,9,Aymen Abdennour,Left Center Back,Attacking fullback
+5741.0,1.3580875,2.2382538,5,Enzo Nicolás Pérez,Center Defensive Midfield,Wide progressive
+6865.0,-1.2267472,2.2429879,6,Francisco José Molinero Calderón,Right Back,Defensive anchor
+24144.0,0.6059902,-0.19525766,5,Ángel Montoro Sánchez,Left Defensive Midfield,Wide progressive
+26448.0,-1.1565584,-2.153902,3,Javier Garrido Behovide,Left Back,Possession system elite
+27251.0,2.7906525,3.5416694,5,Francisco José Perdomo Borges,Right Back,Wide progressive
+3379.0,14.204915,4.961281,0,Alphonse Areola,Goalkeeper,Shot-stopper
+6737.0,2.2841055,6.7402496,2,Alfonso Pedraza Sag,Left Midfield,Box-to-box engine
+6765.0,1.2742375,0.5218792,5,Rodrigo Hernández Cascante,Left Defensive Midfield,Wide progressive
+12021.0,2.1962447,2.931815,5,Óliver Torres Muñoz,Right Midfield,Wide progressive
+6795.0,15.34508,2.7896922,0,Rubén Blanco Veiga,Goalkeeper,Shot-stopper
+6600.0,2.2842793,5.3881426,2,Claudio Beauvue,Right Wing,Box-to-box engine
+24162.0,-0.4440599,3.2645469,6,Xavier Torres Buigues,Right Defensive Midfield,Defensive anchor
+6873.0,1.8199667,-1.3018066,4,Francisco Portillo Soler,Left Midfield,Creative playmaker
+5202.0,-1.5778106,-0.5774686,9,José Ignacio Fernández Iglesias,Left Center Back,Attacking fullback
+26288.0,2.4007912,6.7176933,2,Jonathan Javier Rodríguez Portillo,Center Forward,Box-to-box engine
+26647.0,3.195405,4.3490386,5,Henok Goitom,Center Forward,Wide progressive
+23838.0,1.4481618,6.9723196,2,Pablo Pérez Rodríguez,Right Wing,Box-to-box engine
+6349.0,-2.8335178,0.92879593,10,Federico Julián Fazio,Left Center Back,Aerial commander
+6606.0,1.5459428,8.465787,1,Javier Eraso Goñi,Center Attacking Midfield,Generalist
+3063.0,0.3864076,-2.2185252,4,Danilo Luiz da Silva,Right Back,Creative playmaker
+3240.0,15.442401,2.6271653,0,Mathew Ryan,Goalkeeper,Shot-stopper
+4558.0,3.1807964,0.9788692,4,Pape Cheikh Diop Gueye,Right Wing,Creative playmaker
+16073.0,1.1926357,7.0080795,2,Aras Özbiliz,Center Attacking Midfield,Box-to-box engine
+18398.0,0.71796334,6.349794,2,Omar Mascarell González,Right Defensive Midfield,Box-to-box engine
+18904.0,-0.5751522,4.511162,6,Claudio Matías Kranevitter,Left Defensive Midfield,Defensive anchor
+37212.0,0.97938097,9.62571,1,Leandro Damião da Silva dos Santos,Right Center Forward,Generalist
+6559.0,0.58832526,-0.041047618,5,Juan Carlos Pérez López,Left Midfield,Wide progressive
+27305.0,14.67178,4.226332,0,Germán Darío Lux,Goalkeeper,Shot-stopper
+27342.0,3.2060404,2.9667053,5,Josep Señé Escudero,Left Wing,Wide progressive
+24782.0,2.3403935,3.0872238,5,Jonhatan Montiel Caballero,Center Attacking Midfield,Wide progressive
+6666.0,2.6576388,3.5750618,5,Sabin Merino Zuloaga,Left Wing,Wide progressive
+25984.0,-1.6474301,2.288893,6,Ángel Domingo López Ruano,Right Back,Defensive anchor
+11537.0,14.281542,4.816231,0,Alberto García Cabrera,Goalkeeper,Shot-stopper
+6573.0,-2.8628051,2.9920723,8,Bernardo José Espinosa Zúñiga,Left Center Back,Stopper CB
+21147.0,1.7745895,8.107675,1,Borja Mayoral Moya,Center Forward,Generalist
+5456.0,1.852721,-1.1396772,4,Mateo Kovačić,Left Center Midfield,Creative playmaker
+6677.0,3.1977832,4.239092,5,Imanol Agirretxe Arruti,Center Forward,Wide progressive
+11543.0,-1.4784161,-1.461601,3,José Antonio Dorado Ramírez,Left Center Back,Possession system elite
+19431.0,-0.721062,0.15465353,9,Fernando Damián Tissone,Right Defensive Midfield,Attacking fullback
+6725.0,2.7336004,0.22215791,4,Zakaria Bakkali,Left Wing,Creative playmaker
+20063.0,2.426746,3.554073,5,Javier Ontiveros Parra,Left Midfield,Wide progressive
+197493.0,1.8617697,7.6858077,1,Mikel Arruabarrena Aranbide,Center Attacking Midfield,Generalist
+26689.0,1.2505342,-0.13831839,5,Nauzet Alemán Viera,Right Midfield,Wide progressive
+6840.0,2.125213,7.144524,2,Marcos Llorente Moreno,Left Center Midfield,Box-to-box engine
+17622.0,3.152935,4.1100225,5,Jackson Arley Martínez Valencia,Left Center Forward,Wide progressive
+4418.0,-2.6346436,3.6599774,8,Matheus Dória Macedo,Left Center Back,Stopper CB
+25126.0,3.1124616,2.4414937,5,Nicolás Federico López Alonso,Left Wing,Wide progressive
+26941.0,-1.3124174,1.1174792,9,Francisco Javier García Noblejas Hernanz,Left Back,Attacking fullback
+6684.0,1.2392734,9.438713,1,Roger Martí Salvador,Left Center Forward,Generalist
+26518.0,1.0328635,9.507036,1,Enrique Sola Clemente,Center Forward,Generalist
+6845.0,1.3347253,0.4489169,5,Ager Aketxe Barrutia,Left Wing,Wide progressive
+11634.0,-0.25987872,-0.42228192,5,Cristiano Piccini,Right Back,Wide progressive
+27345.0,-0.00017034833,3.1445878,6,Didier Digard,Left Midfield,Defensive anchor
+27401.0,2.518478,-0.14160897,4,Bernard Mensah,Center Attacking Midfield,Creative playmaker
+15297.0,-1.5091287,-1.2991112,3,Mickaël Ciani,Left Center Back,Possession system elite
+27340.0,2.5684836,5.557793,2,Dejan Dražić,Right Wing,Box-to-box engine
+10852.0,2.9104302,4.277353,5,Miguel Filipe Nunes Cardoso,Center Attacking Midfield,Wide progressive
+27154.0,-1.4347744,3.9714541,7,Nikolaos Karabelas,Left Back,Aggressive stopper
+24318.0,-2.6221492,3.6306434,8,Alberto Guitián Ceballos,Right Center Back,Stopper CB
+24086.0,-1.8469697,2.7738612,6,Antonio José Raillo Arenas,Left Center Back,Defensive anchor
+26801.0,-2.741477,3.301699,8,Jordi Figueras Montel,Left Center Back,Stopper CB
+19724.0,1.3186558,2.6073856,5,Rafael van der Vaart,Left Midfield,Wide progressive
+24143.0,3.1049063,3.106915,5,Álvaro Vadillo Cifuentes,Left Wing,Wide progressive
+9246.0,1.5991931,3.1621554,-1,Patrick Ebert,Center Attacking Midfield,Uncategorised
+24249.0,1.8444548,6.7673435,2,Juan Muñiz Gallego,Right Center Forward,Box-to-box engine
+30429.0,0.7191153,6.234231,2,Hugo Fraile Martín,Right Wing,Box-to-box engine
+8264.0,2.5683603,-0.8084853,4,Adnane Tighadouini,Left Wing,Creative playmaker
+24277.0,3.1637106,2.991264,5,Vincenzo Renato Rennella,Right Center Forward,Wide progressive
+27155.0,-2.8932161,1.7435665,10,Bojan Jokić,Left Back,Aerial commander
+24577.0,-0.3540908,-0.4074504,5,Salvador Ruiz Rodríguez,Left Back,Wide progressive
+21877.0,-1.1654084,-2.4688168,3,Ignacio Monsalve Vicente,Right Center Back,Possession system elite
+8866.0,-0.10849132,11.820781,1,Carlos Fernández Luna,Center Forward,Generalist
+23972.0,0.2994997,-0.09249308,5,José Joaquín Matos García,Left Back,Wide progressive
+23936.0,1.0071218,0.2849759,5,Antonio Jesús Cotán Pérez,Right Defensive Midfield,Wide progressive
+11212.0,0.5861741,-3.219511,3,Fábio Ricardo Gomes Fonseca,Right Wing,Possession system elite
+12349.0,0.82581234,3.5838485,6,Wilfried Aimeric Zahibo,Left Defensive Midfield,Defensive anchor
+6662.0,15.0343685,3.343991,0,Iago Herrerín Buisán,Goalkeeper,Shot-stopper
+75537.0,-2.5280776,4.0463943,7,David Goldar Gómez,Right Center Back,Aggressive stopper
+6834.0,0.700458,10.007242,1,Gerard Gumbau Garriga,Center Defensive Midfield,Generalist
+11146.0,3.1731055,3.2008352,5,Luis Carlos Fariña Olivera,Center Attacking Midfield,Wide progressive
+7904.0,-1.4703665,4.876809,6,Javi Castellano Betancor,Left Center Midfield,Defensive anchor
+21229.0,0.8566173,3.3555698,6,Sergi Samper Montaña,Center Defensive Midfield,Defensive anchor
+20055.0,15.795053,1.7425278,0,Marc-André ter Stegen,Goalkeeper,Shot-stopper
+26256.0,-2.938838,4.5167904,7,Igor Lichnovsky Osorio,Left Center Back,Aggressive stopper
+25873.0,-1.6161164,-0.511294,9,Oleguer Presas Renom,Right Back,Attacking fullback
+17797.0,-1.6525625,2.489813,6,Giovanni van Bronckhorst,Left Back,Defensive anchor
+25882.0,1.5295558,0.7044683,5,Edgar Patricio De Carvalho Pacheco,Left Wing,Wide progressive
+25877.0,3.074357,0.527203,4,Márcio Amoroso dos Santos,Center Forward,Creative playmaker
+20176.0,15.124974,3.191923,0,Víctor Valdés Arribas,Goalkeeper,Shot-stopper
+20125.0,-1.7546496,-0.598469,9,Carles Puyol i Saforcada,Right Center Back,Attacking fullback
+25863.0,-0.7875929,-2.599413,3,Juliano Haus Belletti,Right Back,Possession system elite
+25870.0,13.709203,6.549695,0,Juan Jesús Calatayud Sánchez,Goalkeeper,Shot-stopper
+25866.0,-2.9166129,2.710137,8,Raúl Iznata Zabala,Left Back,Stopper CB
+25862.0,-3.360948,3.246278,8,Carlos Manuel de Oliveira Magalhães,Right Center Back,Stopper CB
+19298.0,2.7693217,-0.6863754,4,Samuel Eto''o Fils,Center Forward,Creative playmaker
+25879.0,0.43959492,-3.2983575,3,Ronaldo de Assis Moreira,Left Wing,Possession system elite
+25868.0,-3.8929892,3.4879975,8,Fernando Sanz Durán,Left Center Back,Stopper CB
+5558.0,-1.5809839,-1.992953,3,Rafael Márquez Álvarez,Left Center Back,Possession system elite
+19757.0,1.3950577,-1.9179642,4,Anderson Luís de Souza,Left Center Midfield,Creative playmaker
+25875.0,-0.1817583,3.8355775,6,Miguel Ángel Lozano Ayala,Left Center Midfield,Defensive anchor
+25883.0,-3.2846684,2.7752843,8,Juan Jesús Gutiérrez Robles,Left Center Back,Stopper CB
+25854.0,0.38659874,-1.7681007,4,Sylvio Mendes Campos Junior,Left Back,Creative playmaker
+25876.0,1.8376433,6.05286,2,Pierre Achille Webó Kouamo,Center Forward,Box-to-box engine
+25874.0,-0.9948037,-0.38277975,-1,Francisco Puñal Martínez,Right Center Midfield,Uncategorised
+25871.0,-2.8047845,4.5477943,7,José Izquierdo Martínez,Right Back,Aggressive stopper
+25865.0,-3.3202975,3.1212575,8,José Romero Urtasun,Left Center Back,Stopper CB
+25867.0,-3.3363714,1.5205805,10,César Cruchaga Lasa,Right Center Back,Aerial commander
+25858.0,13.784874,6.3161077,0,Ricardo Sanzol Goñi,Goalkeeper,Shot-stopper
+25860.0,-3.1524043,0.6873112,10,Enrique Corrales Martín,Left Back,Aerial commander
+25878.0,2.6883667,-0.17696863,4,Ludovic Giuly,Right Wing,Creative playmaker
+25861.0,0.8334696,3.4441166,6,Iñaki Muñoz Oroz,Left Center Midfield,Defensive anchor
+25864.0,1.6058286,6.909898,2,Mohamed El Yaagoubi,Left Midfield,Box-to-box engine
+25869.0,2.3037322,-0.7930555,4,David López Moreno,Left Center Forward,Creative playmaker
+25872.0,1.8075708,0.91616434,5,Valmiro Lópes Rocha,Center Attacking Midfield,Wide progressive
+25856.0,3.252773,2.0701623,5,John Aloisi,Center Forward,Wide progressive
+25853.0,0.64165986,3.6086237,6,Ludovic Delporte,Left Wing,Defensive anchor
+25905.0,-2.7227614,1.5309613,10,Santiago Denia Sánchez,Right Back,Aerial commander
+25901.0,13.871658,5.9403515,0,Raúl Valbuena Cano,Goalkeeper,Shot-stopper
+25903.0,-2.9757698,4.5898705,7,Laurent Viaud,Center Midfield,Aggressive stopper
+25906.0,2.3826382,3.0137272,5,Jaime Sánchez Fernández,Left Center Midfield,Wide progressive
+25907.0,0.37758747,-3.3189602,3,Francisco Javier Rodríguez Vílchez,Right Midfield,Possession system elite
+24631.0,-3.880927,3.7767549,8,Agustín García Iñiguez,Left Center Back,Stopper CB
+25902.0,-3.3107195,4.12402,7,Carles Domingo Pladevall,Left Back,Aggressive stopper
+25908.0,3.1946354,4.297779,5,Mark Dennis González Hoffmann,Center Forward,Wide progressive
+25900.0,-1.2212597,1.5717098,9,Francisco Peña Romero,Left Back,Attacking fullback
+25899.0,-1.3621176,2.647593,6,Gaspar Gálvez Burgos,Left Center Midfield,Defensive anchor
+25904.0,3.0957532,0.61474264,4,"Antonio Pacheco D""Agosti",Center Attacking Midfield,Creative playmaker
+4325.0,0.94755507,-1.8865224,4,Thiago Motta,Right Center Midfield,Creative playmaker
+25898.0,1.8989577,3.1969273,5,Iván Díaz Ruiz,Right Center Midfield,Wide progressive
+20321.0,-0.6169559,0.19243261,9,Fabio Celestini,Left Center Midfield,Attacking fullback
+25894.0,-0.35117447,10.425692,1,Iñaki Descarga Retegi,Left Back,Generalist
+25891.0,13.827931,6.0661097,0,Juan Luis Mora Palacios,Goalkeeper,Shot-stopper
+25896.0,-1.0600575,-2.4762194,3,Damià Abella Pérez,Right Back,Possession system elite
+25888.0,-3.974761,3.758236,8,Jose Antonio Culebras Arenas,Right Center Back,Stopper CB
+25889.0,-2.2639046,4.760001,7,Pablo Pinillos Caro,Right Back,Aggressive stopper
+25887.0,-3.9575362,3.5704987,8,José Alejandro Suárez Martín,Left Center Back,Stopper CB
+25893.0,0.4093696,9.979978,1,Alberto Rivera Pizarro,Left Defensive Midfield,Generalist
+25890.0,1.094779,4.3378663,6,Jofre González Mateu,Left Wing,Defensive anchor
+25895.0,3.0530295,0.51727253,4,Felix Dja Ettien Yohou,Right Wing,Creative playmaker
+25892.0,1.4224935,6.1696916,2,Ignacio Pérez Santamaría,Center Attacking Midfield,Box-to-box engine
+20182.0,3.0240543,1.9598936,5,Vladimir Manchev,Center Forward,Wide progressive
+26414.0,-2.2771344,1.6098615,10,Gustavo Lionel Siviero,Left Center Back,Aerial commander
+26068.0,-2.2653434,1.0299803,10,Rubén González Rocha,Right Center Back,Aerial commander
+26411.0,-2.3313286,4.1158867,7,Óscar Montiel Marín,Right Back,Aggressive stopper
+26413.0,0.8797466,3.2965996,6,David Sánchez Rodríguez,Right Center Midfield,Defensive anchor
+26410.0,15.170512,3.096778,0,Ronald Louis Gaspercic,Goalkeeper,Shot-stopper
+26412.0,0.2856506,-2.0650043,4,Pablo Redondo Martínez,Right Wing,Creative playmaker
+26415.0,2.4080725,3.4746861,5,Mikel Aguirregomezkorta Larrea,Center Forward,Wide progressive
+26057.0,-0.90504104,0.13717017,9,Mariano Andrés Pernía,Left Back,Attacking fullback
+26130.0,-0.7056039,-2.8798153,3,José Manuel Yanguas Calleja,Right Back,Possession system elite
+26061.0,1.6241763,2.0733948,5,Mario Gutiérrez Cotelo,Right Midfield,Wide progressive
+26129.0,13.719641,6.3834763,0,Francisco Javier Sánchez Broto,Goalkeeper,Shot-stopper
+26054.0,1.4612525,-2.0680969,4,Gheorghe Craioveanu,Center Forward,Creative playmaker
+8193.0,2.8941357,3.7035837,5,Maximiliano Gastón López,Center Forward,Wide progressive
+26058.0,-3.0908663,2.1806397,8,David Belenguer Reverter,Right Center Back,Stopper CB
+26060.0,0.8859126,3.4147925,6,Diego Rivas Gutiérrez,Right Center Midfield,Defensive anchor
+26055.0,0.64202285,-3.0823424,3,Iván Sánchez Rico Soto,Right Center Forward,Possession system elite
+26131.0,-3.1770964,0.6849552,10,Victoriano Rivas Álvaro,Left Center Back,Aerial commander
+26053.0,1.8632656,1.6311035,5,Ángel Manuel Vivar Dorado,Left Center Forward,Wide progressive
+26128.0,3.0770953,0.1649855,4,Jorge Gonzalez Diaz,Right Center Forward,Creative playmaker
+26140.0,-3.0295208,4.037583,7,Hugo Benjamín Ibarra,Right Back,Aggressive stopper
+26139.0,-1.5135136,4.8284354,6,Antonio Álvarez Pérez,Right Center Midfield,Defensive anchor
+26138.0,-3.359325,1.4879646,10,David García De La Cruz,Left Back,Aerial commander
+26137.0,1.2083106,-2.6184654,4,Óscar Serrano Rodriguez,Left Midfield,Creative playmaker
+15743.0,3.1809654,4.3043985,5,Henrik Larsson,Center Forward,Wide progressive
+26136.0,-3.8818278,3.4382358,8,Mauricio Roberto Pochettino Trossero,Right Center Back,Stopper CB
+26105.0,-0.9084437,0.06242551,9,Iván De la Peña López,Center Attacking Midfield,Attacking fullback
+26124.0,1.9311345,6.0485415,2,Maximiliano Rubén Rodríguez,Right Center Forward,Box-to-box engine
+26109.0,3.3790283,3.7580748,5,Raúl Tamudo Montero,Center Forward,Wide progressive
+13811.0,-1.3520744,4.884735,6,José Emilio Amavisca Gárate,Left Wing,Defensive anchor
+26135.0,-3.3009076,4.191323,7,Alex Fernandez Sanchez,Center Defensive Midfield,Aggressive stopper
+26462.0,0.90094036,6.2584786,2,Gerardo García León,Right Center Midfield,Box-to-box engine
+19296.0,0.7346646,-0.06867851,5,Mark van Bommel,Right Center Midfield,Wide progressive
+26460.0,13.926205,5.8203683,0,Francesc Arnau,Goalkeeper,Shot-stopper
+26044.0,-3.3846807,4.3250804,7,César González Navas,Right Center Back,Aggressive stopper
+25910.0,0.17224617,-0.021720016,5,José Edmílson Gomes de Moraes,Center Defensive Midfield,Wide progressive
+26246.0,0.28581974,10.286005,1,Salvador Ballesta Vialcho,Right Center Forward,Generalist
+26459.0,-2.8528364,3.1521044,8,Vicente Valcarce Cano,Left Back,Stopper CB
+26461.0,2.3776412,6.462273,2,Pablo González Couñago,Left Center Forward,Box-to-box engine
+25985.0,-0.48505297,10.413429,1,David Coromina Pararols,Left Back,Generalist
+25979.0,-3.0149665,4.41152,7,Eduardo Alonso Álvarez,Right Back,Aggressive stopper
+25977.0,0.9983682,6.8453856,2,Alejandro Castro Fernández,Left Center Midfield,Box-to-box engine
+25981.0,0.72044706,9.537306,1,Santiago Carpintero Fernández,Right Center Midfield,Generalist
+25983.0,-3.377493,4.3104157,7,Josu Sarriegi Zumárraga,Right Center Back,Aggressive stopper
+25974.0,13.731932,6.516,0,Franco Costanzo,Goalkeeper,Shot-stopper
+25987.0,2.4850938,-0.07114487,4,Rodolfo Bodipo Díaz,Left Center Forward,Creative playmaker
+25975.0,1.4653733,4.077463,-1,Blagoy Georgiev,Right Midfield,Uncategorised
+25764.0,1.7993464,6.9926424,2,Anderson Luis de Carvalho,Left Midfield,Box-to-box engine
+25972.0,0.24829015,11.646668,1,Elton Giovanni Machado,Left Center Midfield,Generalist
+25934.0,1.0995436,-1.8918958,4,Juan Román Riquelme,Right Wing,Creative playmaker
+25940.0,2.38227,0.10441429,4,José María Romero Poyón,Center Attacking Midfield,Creative playmaker
+25938.0,0.9364597,5.913125,2,Juan Pablo Sorín,Left Wing,Box-to-box engine
+20135.0,1.2393538,7.003227,2,Marcos Antonio Senna da Silva,Left Center Midfield,Box-to-box engine
+25939.0,1.1793882,6.269024,2,José Joaquín Moreno Verdú,Right Center Midfield,Box-to-box engine
+25937.0,1.1172602,6.976545,2,Javier Rodríguez Venta,Right Back,Box-to-box engine
+25936.0,13.94214,5.6412597,0,Mario Sebastián Viera Galain,Goalkeeper,Shot-stopper
+25933.0,-3.304455,3.1044595,8,Juan Manuel Peña Montaño,Left Center Back,Stopper CB
+25935.0,-0.2824375,10.442171,1,Rodolfo Martín Arruabarrena,Left Back,Generalist
+25931.0,-1.9335824,2.6485991,6,Gonzalo Javier Rodríguez,Right Center Back,Defensive anchor
+25941.0,-0.23712113,11.864479,1,Luciano Gabriel Figueroa Herrera,Center Forward,Generalist
+25929.0,0.06684628,-1.8721219,4,Roger García Junyent,Left Back,Creative playmaker
+25925.0,0.8734449,9.191892,1,Gabriel Francisco García de la Torre,Right Back,Generalist
+25986.0,1.5735599,2.1728396,5,Borja Oubiña Meléndez,Left Defensive Midfield,Wide progressive
+3064.0,1.6457727,-0.5140048,4,David Josué Jiménez Silva,Left Wing,Creative playmaker
+25973.0,-2.4910097,1.7492198,10,Matías Emanuel Lequi,Left Center Back,Aerial commander
+25971.0,15.318066,2.8287535,0,Esteban Andrés Suárez,Goalkeeper,Shot-stopper
+25976.0,-0.3341604,-0.3808336,5,Diego Rodolfo Placente,Left Back,Wide progressive
+25969.0,-2.8124418,1.2189702,10,Sergio Fernández González,Right Center Back,Aerial commander
+25980.0,0.0590792,-1.8087502,4,Néstor Fabián Canobbio Bentaberry,Center Attacking Midfield,Creative playmaker
+25988.0,0.85007304,-3.0938563,3,João Fernando Nelo,Center Forward,Possession system elite
+25982.0,3.0566225,0.28312665,4,Antonio Núñez Tena,Right Wing,Creative playmaker
+25978.0,3.1685586,2.8053524,5,Iriney Santos Da Silva,Right Defensive Midfield,Wide progressive
+25968.0,3.2422397,1.9195728,5,Francisco Javier García Guerrero,Right Center Forward,Wide progressive
+26453.0,-3.2407432,1.1368518,10,Juan Alberto Andreu Alvarado,Right Center Back,Aerial commander
+26069.0,-1.2747009,1.3741812,9,Luis Fernández Gutiérrez,Left Back,Attacking fullback
+26456.0,1.9101758,6.7769823,2,Luís Eduardo Schmidt,Center Attacking Midfield,Box-to-box engine
+26484.0,13.878676,6.1590576,0,Antonio Baltasar Doblas Santana,Goalkeeper,Shot-stopper
+25254.0,1.4282255,8.738366,1,Diego Tardelli Martins,Left Wing,Generalist
+20519.0,-3.7802088,3.392307,8,Juan Gutiérrez Moreno,Left Center Back,Stopper CB
+26464.0,2.0666816,1.7496634,5,Arturo García Muñoz,Right Center Midfield,Wide progressive
+26486.0,-2.8878906,4.5223694,7,Oscar López Hernández,Left Back,Aggressive stopper
+26485.0,2.4159913,-0.12582164,4,Daniel Martín Alexandre,Center Forward,Creative playmaker
+26201.0,-2.1060772,4.2608967,7,Fernando Varela Ramos,Left Back,Aggressive stopper
+26450.0,0.012087746,11.831612,1,Robert de Pinho de Souza,Left Wing,Generalist
+26062.0,-1.8539168,1.1041805,-1,Rubén Martín Pulido,Right Back,Uncategorised
+26040.0,-1.9343768,0.113104105,10,Aníbal Samuel Matellán,Left Center Back,Aerial commander
+20132.0,1.9043063,7.9190474,1,Daniel González Güiza,Center Forward,Generalist
+26056.0,1.7881813,3.620548,-1,David García Cubillo,Center Defensive Midfield,Uncategorised
+26059.0,15.742763,2.041967,0,Luis García Conde,Goalkeeper,Shot-stopper
+24797.0,-3.0403998,4.4012456,7,Didier Domi,Left Back,Aggressive stopper
+26108.0,-1.1403433,-2.4339836,3,Eduardo Nascimento Costa,Right Defensive Midfield,Possession system elite
+26110.0,-3.747946,3.3489702,8,Daniel Jarque Gonzalez,Left Center Back,Stopper CB
+23916.0,1.8110536,6.849179,2,Luis García Fernández,Left Wing,Box-to-box engine
+26106.0,-2.1751182,4.2511487,7,Armando Miguel Correia de Sa,Right Back,Aggressive stopper
+26104.0,-3.028732,2.693085,8,Fredson Câmara Pereira,Left Defensive Midfield,Stopper CB
+26148.0,-3.017365,4.611942,7,José Moratón Taeño,Right Center Back,Aggressive stopper
+26145.0,-0.828371,11.424421,1,Francisco Borja Enrique Ayesa,Left Center Back,Generalist
+26146.0,13.775362,6.3139563,0,Dudú Aouate,Goalkeeper,Shot-stopper
+26149.0,1.3175073,8.93312,1,Stephane Dalmat,Right Center Midfield,Generalist
+26147.0,-2.874232,4.6074715,7,Ayoze Díaz Díaz,Left Back,Aggressive stopper
+25430.0,2.6820548,2.4949691,5,Felipe Melo de Carvalho,Left Center Midfield,Wide progressive
+26064.0,-0.14529346,11.583963,1,Antonio Tomás González,Right Midfield,Generalist
+26071.0,-0.3779097,11.843043,1,Víctor Javier Añino Bermúdez,Center Defensive Midfield,Generalist
+26066.0,3.174563,4.524633,5,Juan José Expósito Ruíz,Center Forward,Wide progressive
+26144.0,0.9242415,6.1024914,2,Francisco Javier Casquero Paredes,Center Defensive Midfield,Box-to-box engine
+26143.0,0.07133327,-1.7689757,4,Hoalid Regragui,Left Back,Creative playmaker
+25918.0,-2.1839006,4.181684,7,Delio Cesar Toledo,Left Back,Aggressive stopper
+25909.0,0.542695,4.910187,6,Albert Celades López,Right Center Midfield,Defensive anchor
+25919.0,-2.9646087,0.6251828,10,Gabriel Alejandro Milito,Left Center Back,Aerial commander
+25917.0,13.882762,5.9131036,0,César Sánchez Domínguez,Goalkeeper,Shot-stopper
+25922.0,-2.2271338,4.08075,7,Leonardo Daniel Ponzio,Right Back,Aggressive stopper
+25913.0,-2.858346,2.7101917,8,Álvaro Luiz Maior de Aquino,Right Center Back,Stopper CB
+24520.0,1.5103409,5.032278,6,Alberto Zapater Arjol,Left Center Midfield,Defensive anchor
+19294.0,2.7608206,-0.78867626,4,Diego Alberto Milito,Center Forward,Creative playmaker
+25916.0,2.2603972,-1.5051706,4,Ewerthon Henrique de Souza,Right Center Forward,Creative playmaker
+25911.0,1.8513298,1.2363113,5,Óscar Javier González Marcos,Right Midfield,Wide progressive
+25915.0,3.1169004,0.3435908,4,Sávio Bortolini Pimentel,Left Wing,Creative playmaker
+25920.0,-0.1601081,-0.0942863,5,Jose María Movilla Cubero,Right Center Midfield,Wide progressive
+26123.0,1.4675181,6.6723504,2,Peter Luccin,Left Defensive Midfield,Box-to-box engine
+26121.0,-0.83483505,3.5868034,-1,Ariel Miguel Santiago Ibagaza,Left Midfield,Uncategorised
+26119.0,13.740724,6.515932,0,Leonardo Neoren Franco,Goalkeeper,Shot-stopper
+26118.0,-2.4799097,3.639444,8,Antonio López Guerrero,Left Back,Stopper CB
+26120.0,-0.567268,10.500745,1,Luis Amaranto Perea Mosquera,Right Center Back,Generalist
+26122.0,1.1604062,4.7111835,6,Luciano Martín Galletti,Right Midfield,Defensive anchor
+26117.0,-3.9920478,3.7006314,8,Pablo Ibáñez Tébar,Left Center Back,Stopper CB
+19888.0,2.8084552,0.4170111,4,Martin Petrov,Left Midfield,Creative playmaker
+25949.0,0.45205525,-3.2985635,3,Santiago Ezquerro Marín,Left Wing,Possession system elite
+25998.0,-1.1923691,2.3095727,6,Francisco Javier Farinós Zapata,Left Defensive Midfield,Defensive anchor
+25996.0,0.4457614,2.0482068,-1,Cristiano Doni,Right Defensive Midfield,Uncategorised
+25994.0,-2.6385088,4.3426,7,David Cortés Caballero,Right Back,Aggressive stopper
+25992.0,-3.9345875,3.4920359,8,José Carlos de Araújo Nunes,Left Center Back,Stopper CB
+25995.0,0.11443613,-1.1132619,4,Juan Fernando Arango Sáenz,Left Wing,Creative playmaker
+25993.0,0.78844583,-3.1600451,3,Yoshito Ōkubo,Center Attacking Midfield,Possession system elite
+25991.0,-3.061579,1.5239356,10,Eduardo Nicolás Tuzzio,Right Center Back,Aerial commander
+25956.0,-2.3969698,4.0025835,7,David Castedo Escudero,Left Back,Aggressive stopper
+25950.0,-3.3667507,3.187228,8,Aitor Ocio Carrión,Right Center Back,Stopper CB
+25948.0,-0.24895827,10.510028,1,Jose Luis Martí Soler,Right Back,Generalist
+6821.0,-0.248073,-3.1880698,3,Jesús Navas González,Right Back,Possession system elite
+25952.0,-1.9620314,-1.3778855,3,Ivica Dragutinovic,Left Center Back,Possession system elite
+25960.0,2.698519,-0.94349384,4,Frédéric Oumar Kanouté,Left Center Forward,Creative playmaker
+25946.0,14.343875,4.7242136,0,Andrés Palop Cervera,Goalkeeper,Shot-stopper
+25954.0,1.5935667,6.8638935,2,Enzo Maresca,Left Defensive Midfield,Box-to-box engine
+25962.0,2.6524765,3.8526921,5,Javier Pedro Saviola Fernández,Right Center Forward,Wide progressive
+25958.0,1.3824487,7.000804,2,Jordi López Felpeto,Right Defensive Midfield,Box-to-box engine
+25932.0,0.2025171,10.807362,1,Pablo Gabriel García Pérez,Right Defensive Midfield,Generalist
+15584.0,-3.1378767,4.359096,7,Iván Helguera Bujía,Left Center Back,Aggressive stopper
+15661.0,0.8204562,3.3026955,6,David Beckham,Left Defensive Midfield,Defensive anchor
+15601.0,0.58439565,6.020898,2,Miguel Ángel Salgado Fernández,Right Back,Box-to-box engine
+15074.0,1.3156015,6.327876,2,Zinédine Zidane,Center Attacking Midfield,Box-to-box engine
+25926.0,-0.19521184,4.141776,6,Roberto Carlos da Silva,Left Back,Defensive anchor
+25928.0,2.8710737,0.6121572,4,Ronaldo Luíz Nazário de Lima,Center Forward,Creative playmaker
+25930.0,3.024284,3.1812277,5,Róbson de Souza,Left Wing,Wide progressive
+15607.0,1.4036907,8.847491,1,Raúl González Blanco,Right Wing,Generalist
+25924.0,0.32301533,3.8503218,6,José Maria Gutiérrez Hernández,Left Defensive Midfield,Defensive anchor
+25923.0,3.0335364,-0.18078913,4,Júlio César Clement Baptista,Left Wing,Creative playmaker
+26088.0,-1.0804951,11.070449,1,Jesús María Lacruz Gómez,Right Center Back,Generalist
+26035.0,-0.7230539,-2.8770761,3,Francisco Javier Yeste Navarro,Left Attacking Midfield,Possession system elite
+26084.0,13.782567,6.5376453,0,Iñaki Lafuente Sancha,Goalkeeper,Shot-stopper
+26030.0,-0.88365304,11.360155,1,Ander Murillo García,Right Wing Back,Generalist
+26086.0,-3.2180357,2.7164826,8,Pablo Orbaiz Lesaka,Left Center Midfield,Stopper CB
+26028.0,-1.0728923,11.101813,1,Fernando Amorebieta Mardaras,Center Back,Generalist
+26032.0,-1.0498924,11.107309,1,Unai Expósito Medina,Left Wing Back,Generalist
+26085.0,-3.9584787,3.5424232,8,Luis Prieto Zalbidegoitia,Left Center Back,Stopper CB
+15606.0,0.4412841,-3.3015702,3,Joseba Andoni Etxeberria Lizardi,Right Attacking Midfield,Possession system elite
+26031.0,-3.1594458,3.1155941,8,Andoni Iraola Sagarna,Right Center Back,Stopper CB
+25961.0,-3.0511367,4.12388,7,Ramón de Quintana Dalmau,Right Center Back,Aggressive stopper
+25965.0,0.5035693,4.709942,6,Roberto Suárez Álvarez,Right Defensive Midfield,Defensive anchor
+25959.0,-2.4381397,4.1387944,7,Alejandro Varela López,Right Back,Aggressive stopper
+25957.0,-2.391105,4.7703094,7,Andrés José Fleurquin Rubio,Left Defensive Midfield,Aggressive stopper
+25964.0,0.3659453,3.991936,6,Matías Nicolás Pavoni,Center Attacking Midfield,Defensive anchor
+25966.0,0.59994954,9.645086,1,Oliverio Jesús Alvarez González,Center Forward,Generalist
+25967.0,3.3180203,3.7452354,5,Enrique Fernando Ortiz Moruno,Right Wing,Wide progressive
+25955.0,1.5129689,7.0261517,2,Jonathan Sesma González,Left Wing,Box-to-box engine
+25953.0,13.693409,6.329997,0,Armando Riveiro de Aguilar Malda,Goalkeeper,Shot-stopper
+25963.0,-3.077782,3.0620074,8,José Julián De La Cuesta Herrera,Left Center Back,Stopper CB
+25951.0,-2.8677392,4.1334352,7,Mário Fernando Magalhães da Silva,Left Back,Aggressive stopper
+25945.0,-1.4013711,-1.4023904,3,Manuel Pérez Rodrigo,Right Defensive Midfield,Possession system elite
+25947.0,3.117248,-0.019142594,4,Fabián Larry Estoyanoff Poggio,Center Forward,Creative playmaker
+25912.0,13.774044,6.416145,0,Ricardo López Felipe,Goalkeeper,Shot-stopper
+19331.0,2.932209,1.7883346,5,Savo Milošević,Center Forward,Wide progressive
+25914.0,-0.32832995,10.532842,1,Rafael Clavero Prados,Left Back,Generalist
+17304.0,0.59534955,-3.1202629,3,Héctor Junior Firpo Adames,Left Back,Possession system elite
+6374.0,0.74325377,-3.0707111,3,Nélson Cabral Semedo,Right Back,Possession system elite
+6705.0,-0.76944226,-2.8236587,3,José Ángel Valdés Díaz,Left Back,Possession system elite
+6826.0,-0.46964473,-3.0841146,3,Clément Lenglet,Left Center Back,Possession system elite
+8206.0,2.178119,1.4795117,5,Arturo Erasmo Vidal Pardo,Right Center Midfield,Wide progressive
+6910.0,2.523364,3.4688685,5,Eduardo Expósito Jaén,Left Defensive Midfield,Wide progressive
+23981.0,0.46337122,-2.2453876,4,Álvaro Tejero Sacristán,Right Back,Creative playmaker
+11392.0,0.5817183,-3.1154566,3,Arthur Henrique Ramos de Oliveira Melo,Left Center Midfield,Possession system elite
+23803.0,-2.9217393,1.3350424,10,Esteban Rodrigo Burgos,Right Center Back,Aerial commander
+6698.0,15.727523,2.158156,0,Marko Dmitrović,Goalkeeper,Shot-stopper
+8555.0,0.336648,1.8900056,-1,Pablo Ezequiel De Blasis,Left Wing,Uncategorised
+8118.0,0.70317346,-3.0440927,3,Frenkie de Jong,Left Center Midfield,Possession system elite
+5492.0,-0.33883458,-3.1539388,3,Samuel Yves Umtiti,Left Center Back,Possession system elite
+4447.0,2.987647,3.6303325,5,Martin Braithwaite Christensen,Left Wing,Wide progressive
+6851.0,0.7698877,9.456612,1,Aitor Ruibal García,Right Wing Back,Generalist
+11730.0,0.24442798,10.138793,1,Jonathan Cristian Silva,Left Wing Back,Generalist
+6598.0,-0.20840049,10.30833,1,Unai Bustinza Martínez,Left Center Back,Generalist
+3139.0,-1.5742347,4.8991985,6,Chidozie Collins Awaziem,Right Center Back,Defensive anchor
+30756.0,2.6969435,0.46909815,4,Anssumane Fati,Left Wing,Creative playmaker
+17818.0,-3.4303985,4.2885685,7,Rodrigo Tarín Higón,Center Back,Aggressive stopper
+3246.0,1.3517381,9.14343,1,Guido Marcelo Carrillo,Right Center Forward,Generalist
+16024.0,2.4466863,6.4278164,2,Roger Claver Assalé Djapone,Left Center Forward,Box-to-box engine
+24841.0,2.3660448,-0.24024035,4,Ricard Puig Martí,Left Center Midfield,Creative playmaker
+6885.0,1.0105171,6.1341615,2,Kévin Manuel Rodrigues,Left Wing Back,Box-to-box engine
+11332.0,3.399443,2.9593663,5,Ibrahim Amadou,Center Attacking Midfield,Wide progressive
+16555.0,-0.34366375,4.1719327,6,Joseph Aidoo,Right Center Back,Defensive anchor
+5194.0,1.0542983,9.675585,1,Fyodor Smolov,Left Center Forward,Generalist
+6799.0,0.47549903,9.796361,1,Brais Méndez Portela,Left Center Forward,Generalist
+24273.0,-0.09792575,10.407075,1,Jorge Sáenz de Miera Colmeiro,Left Center Back,Generalist
+11388.0,-1.2599729,2.4115572,6,Néstor Alejandro Araújo Razo,Center Back,Defensive anchor
+22029.0,1.3895439,7.0052958,2,Kevin Vázquez Comesaña,Right Wing Back,Box-to-box engine
+12555.0,0.86981493,9.535239,1,Okay Yokuşlu,Center Defensive Midfield,Generalist
+41116.0,0.7900231,3.578213,6,Jacobo González Rodrigañez,Left Wing Back,Defensive anchor
+6310.0,-0.5259112,4.4611683,6,Filip Bradarić,Center Defensive Midfield,Defensive anchor
+3804.0,-0.11257423,-3.2602696,3,Ferland Mendy,Left Back,Possession system elite
+3509.0,15.73983,2.1075757,0,Thibaut Courtois,Goalkeeper,Shot-stopper
+6773.0,1.6620455,0.7665118,5,Federico Santiago Valverde Dipetta,Right Center Midfield,Wide progressive
+6892.0,-1.1139393,-2.5096388,3,Pau Francisco Torres,Left Center Back,Possession system elite
+24729.0,0.8327043,-2.1863532,4,Xavier Quintillà Guasch,Left Back,Creative playmaker
+11386.0,1.887695,5.290539,2,Santiago Cazorla González,Center Attacking Midfield,Box-to-box engine
+6710.0,0.83787036,3.2936282,6,Rubén Peña Jiménez,Right Back,Defensive anchor
+3141.0,2.2665231,3.315812,5,André-Frank Zambo Anguissa,Right Defensive Midfield,Wide progressive
+7030.0,-1.3869272,3.809309,-1,Raúl Albiol i Tortajada,Right Center Back,Uncategorised
+16335.0,2.6304152,-0.39369553,4,Samuel Chimerenka Chukwueze,Right Wing,Creative playmaker
+5477.0,0.8420223,-3.093275,3,Ousmane Dembélé,Left Wing,Possession system elite
+3515.0,0.18931098,-1.6093957,4,Alberto Moreno Pérez,Left Back,Creative playmaker
+32480.0,-0.08899622,-3.2510724,3,Ronald Federico Araújo da Silva,Right Center Back,Possession system elite
+6688.0,0.6104438,4.6830425,6,José Ángel Gómez Campaña,Left Midfield,Defensive anchor
+6782.0,1.8706723,5.2767463,2,Enis Bardhi,Left Midfield,Box-to-box engine
+23344.0,13.773221,6.4524283,0,Aitor Fernández Abarisketa,Goalkeeper,Shot-stopper
+11676.0,-0.3939931,-0.2847739,5,Jorge Miramón Santagertrudis,Right Back,Wide progressive
+23948.0,0.6056148,4.8599434,6,Carlos Clerc Martínez,Left Back,Defensive anchor
+11669.0,1.5686675,6.9981775,2,Gonzalo Julián Melero Manzanares,Left Defensive Midfield,Box-to-box engine
+6682.0,-3.029871,3.7709267,7,Sergio Postigo Redondo,Right Center Back,Aggressive stopper
+25006.0,2.402294,-0.2676937,4,Carles Pérez Sayol,Left Wing,Creative playmaker
+17303.0,-0.1925182,11.80761,1,Nikola Vukčević,Left Defensive Midfield,Generalist
+24083.0,15.424062,2.6590893,0,Manuel Reina Rodríguez,Goalkeeper,Shot-stopper
+23986.0,1.5238336,8.631915,1,Aleix Febas Pérez,Left Midfield,Generalist
+24576.0,-0.31059694,4.273138,6,Francisco Gámez López,Left Back,Defensive anchor
+24087.0,1.2988999,6.7131186,2,Iddrisu Baba Mohammed,Left Center Midfield,Box-to-box engine
+24089.0,0.57055956,9.627778,1,Joan Sastre Vanrell,Left Back,Generalist
+31090.0,3.0968897,2.6682358,5,Takefusa Kubo,Right Midfield,Wide progressive
+24084.0,-2.725693,4.3290744,7,Martin Valjent,Right Center Back,Aggressive stopper
+8654.0,0.22956026,11.730824,1,Ante Budimir,Left Center Forward,Generalist
+24088.0,1.7365867,7.988591,1,Daniel José Rodríguez Vázquez,Left Midfield,Generalist
+11671.0,1.6871741,8.125086,1,Juan Camilo Hernández Suárez,Left Center Forward,Generalist
+13599.0,1.2897216,-0.20174055,5,Carles Aleña Castillo,Left Center Midfield,Wide progressive
+32185.0,15.786457,1.7517012,0,Alejandro Remiro Gargallo,Goalkeeper,Shot-stopper
+24236.0,1.1699439,0.020190889,5,Ander Guevara Lajo,Center Defensive Midfield,Wide progressive
+3498.0,0.1404582,-1.6548593,4,Ignacio Monreal Eraso,Left Back,Creative playmaker
+8252.0,1.5573039,0.6835702,5,Martin Ødegaard,Center Attacking Midfield,Wide progressive
+8819.0,1.9828463,7.714395,1,Alexander Isak,Center Forward,Generalist
+3042.0,2.1058543,1.5559591,5,Mikel Merino Zazón,Left Defensive Midfield,Wide progressive
+6582.0,0.25935334,11.432329,1,Cristian Portugués Manzanera,Right Midfield,Generalist
+6330.0,1.1625533,2.3957803,5,Adnan Januzaj,Right Midfield,Wide progressive
+22321.0,1.8301289,7.9926805,1,Ander Barrenetxea Muguruza,Left Midfield,Generalist
+12020.0,1.1220815,-2.2013984,4,Hernâni Jorge Santos Fortes,Left Midfield,Creative playmaker
+6891.0,-2.038116,-1.572658,3,Ezequiel Marcelo Garay,Right Center Back,Possession system elite
+6589.0,1.1713334,7.5081186,2,Geoffrey Kondogbia,Left Center Midfield,Box-to-box engine
+6583.0,0.18497138,11.186955,1,Carlos Soler Barragán,Left Midfield,Generalist
+6748.0,2.5301387,2.3434005,5,Ferrán Torres García,Right Midfield,Wide progressive
+3437.0,1.9990859,6.8442597,2,Francis Joseph Coquelin,Right Center Midfield,Box-to-box engine
+6297.0,3.3512828,3.895053,5,Maximiliano Gómez González,Left Center Forward,Wide progressive
+24212.0,-4.01657,3.6635413,8,Aridane Hernández Umpiérrez,Right Center Back,Stopper CB
+24211.0,13.781012,6.4150953,0,Sergio Herrera Pirón,Goalkeeper,Shot-stopper
+24085.0,-0.7759899,3.7136648,-1,Pervis Josué Estupiñán Tenorio,Left Wing Back,Uncategorised
+6591.0,-2.2545419,4.778693,7,Ignacio Vidal Miralles,Right Wing Back,Aggressive stopper
+23945.0,0.44474173,10.418369,1,Iñigo Pérez Soto,Left Center Midfield,Generalist
+23950.0,-1.0149668,11.12683,1,David García Zubiría,Left Center Back,Generalist
+23944.0,0.073074855,10.665913,1,Oier Sanjurjo Mate,Center Defensive Midfield,Generalist
+30277.0,0.37984234,11.615194,1,Jon Moncayola Tollar,Center Defensive Midfield,Generalist
+6810.0,-0.53159887,11.905381,1,José Manuel Arnáiz Díaz,Right Center Forward,Generalist
+3265.0,1.6301985,-1.8253087,4,José Luis Sanmartín Mato,Center Forward,Creative playmaker
+6590.0,15.7840805,1.7745444,0,Norberto Murara Neto,Goalkeeper,Shot-stopper
+6618.0,-0.5051163,-2.3935459,3,Martín Aguirregabiria Padilla,Right Back,Possession system elite
+23263.0,-1.3048658,1.1768515,9,Lisandro Magallán,Left Center Back,Attacking fullback
+3513.0,1.7332733,8.177516,1,Oliver Burke,Left Midfield,Generalist
+6615.0,-0.11415562,10.28887,1,Víctor Laguardia Cisneros,Right Center Back,Generalist
+6571.0,13.770958,6.1084104,0,Roberto Jiménez Gago,Goalkeeper,Shot-stopper
+6632.0,1.5781828,7.981161,1,Manuel Alejandro García Sánchez,Left Center Midfield,Generalist
+6565.0,0.6262135,9.599301,1,Pere Pons Riera,Right Center Midfield,Generalist
+24049.0,2.1665015,3.4609601,5,Luis Jesús Rioja González,Center Attacking Midfield,Wide progressive
+10318.0,0.21842064,11.365293,1,Ljubomir Fejsa,Center Defensive Midfield,Generalist
+6877.0,-3.5303137,3.3413012,8,Yeray Álvarez López,Left Center Back,Stopper CB
+11748.0,14.619218,4.319923,0,Unai Simón Mendibil,Goalkeeper,Shot-stopper
+6397.0,-3.3849974,2.8230326,8,Unai Núñez Gestoso,Right Center Back,Stopper CB
+30225.0,0.34862646,11.324469,1,Oihan Sancet Tirapu,Center Attacking Midfield,Generalist
+6387.0,-0.22226107,11.75161,1,Iñigo Córdoba Kerejeta,Left Wing,Generalist
+6667.0,1.0871493,9.276701,1,Mikel Vesga Arruti,Left Defensive Midfield,Generalist
+11304.0,0.8356141,-2.0390546,4,Francisco José Olivas Alba,Right Center Back,Creative playmaker
+24141.0,1.2463453,6.267245,2,Federico San Emeterio Díaz,Right Center Midfield,Box-to-box engine
+11300.0,0.21696353,11.244393,1,Rubén Alcaraz Jiménez,Left Center Midfield,Generalist
+22020.0,0.41309708,1.6220598,-1,Joaquín Fernández Moreno,Center Defensive Midfield,Uncategorised
+21225.0,-1.5536703,-0.2086018,9,Javier Sánchez de Felipe,Left Center Back,Attacking fullback
+11297.0,-0.721327,-2.8442135,3,Javier Moyano Lujano,Right Back,Possession system elite
+40881.0,3.1883662,2.6916826,5,Enrique Pérez Muñoz,Center Attacking Midfield,Wide progressive
+17027.0,2.2113392,6.8412547,2,Sergio Guardiola Navarro,Right Center Forward,Box-to-box engine
+11296.0,1.4887455,4.9649935,-1,Óscar Plano Pedreño,Center Attacking Midfield,Uncategorised
+12073.0,1.2581058,-2.1499226,4,Pablo Hervías Ruiz,Right Midfield,Creative playmaker
+6760.0,2.7768118,3.611019,5,Enes Ünal,Center Attacking Midfield,Wide progressive
+24777.0,2.1926432,3.3253517,5,Waldo Rubio Martín,Left Center Forward,Wide progressive
+22128.0,-0.6520551,-2.9072864,3,Robin Aime Robert Le Normand,Left Center Back,Possession system elite
+6670.0,0.4279521,0.067245185,5,Andoni Gorosabel Espinosa,Right Back,Wide progressive
+6635.0,-2.960488,0.72128093,10,Leandro Daniel Cabrera Sasía,Left Center Back,Aerial commander
+32670.0,0.42924017,3.5354066,6,Víctor Gómez Perea,Right Back,Defensive anchor
+6768.0,13.884018,5.7407794,0,Diego López Rodríguez,Goalkeeper,Shot-stopper
+6754.0,1.2944212,6.362673,2,David López Silva,Center Defensive Midfield,Box-to-box engine
+11293.0,-1.7829843,1.2480459,-1,Fernando Calero Villa,Right Center Back,Uncategorised
+6866.0,0.25605053,10.058959,1,Marc Roca Junqué,Left Center Midfield,Generalist
+31885.0,0.28894675,11.311458,1,Pol Lozano Vizuete,Right Center Forward,Generalist
+16209.0,2.7931051,3.8057454,5,Raúl de Tomás Gómez,Left Center Forward,Wide progressive
+11167.0,-1.7824591,4.8762846,6,Felipe Augusto de Almeida Monteiro,Left Center Back,Defensive anchor
+26532.0,-0.29949632,2.2696338,6,Renan Augusto Lodi dos Santos,Left Back,Defensive anchor
+5198.0,1.6530933,8.323392,1,Diego da Silva Costa,Left Center Forward,Generalist
+5696.0,-0.80814904,-0.14198533,9,Santiago Arias Naranjo,Right Back,Attacking fullback
+12041.0,2.8042507,-0.7615367,4,João Félix Sequeira,Left Center Forward,Creative playmaker
+3245.0,0.4627024,11.110905,1,Thomas Lemar,Right Midfield,Generalist
+3477.0,1.459488,8.60714,1,Álvaro Borja Morata Martín,Left Center Forward,Generalist
+24730.0,-0.6780444,-2.8067276,3,Lucas René Olaza Catrofe,Left Center Back,Possession system elite
+6798.0,2.4365265,0.4335325,4,Stanislav Lobotka,Right Center Midfield,Creative playmaker
+5516.0,2.1956391,0.72787654,4,Pione Sisto Ifolo Emirmija,Left Center Forward,Creative playmaker
+11389.0,1.0295963,-1.9023887,4,Francisco José Beltrán Peinado,Center Defensive Midfield,Creative playmaker
+11292.0,0.77917,0.1066088,5,Pedro Antonio Porro Sauceda,Right Back,Wide progressive
+17520.0,-0.004381033,-1.6515754,4,Federico Barba,Left Back,Creative playmaker
+11303.0,0.66211236,5.182667,6,Anuar Mohamed Tuhami,Left Center Midfield,Defensive anchor
+30519.0,-0.043885857,3.397928,6,Mohamed Salisu,Left Center Back,Defensive anchor
+24613.0,1.1383677,-2.0614376,4,Alejandro Pozo Pozo,Right Back,Creative playmaker
+24269.0,1.7225869,6.585565,2,Marc Pedraza Sarto,Right Defensive Midfield,Box-to-box engine
+24079.0,2.9932508,-0.3475983,4,Júnior Wakalibille Lago,Left Midfield,Creative playmaker
+6930.0,0.3373608,11.604643,1,Jonathan Calleri,Right Center Forward,Generalist
+6902.0,0.50266767,11.038666,1,Óscar Melendo Jiménez,Left Midfield,Generalist
+30421.0,1.339715,-2.3939407,4,Matías Ezequiel Vargas Martín,Left Midfield,Creative playmaker
+4445.0,-2.8715916,2.4500034,8,Jules Koundé,Right Center Back,Stopper CB
+11541.0,15.50182,2.5296998,0,Tomáš Vaclík,Goalkeeper,Shot-stopper
+4345.0,2.7527707,2.2731643,5,Lucas Ariel Ocampos,Right Wing,Wide progressive
+18620.0,0.028153148,-2.3516433,4,Sergio Reguilón Rodríguez,Left Back,Creative playmaker
+16003.0,0.18456592,3.8020592,6,Fernando Francisco Reges,Center Defensive Midfield,Defensive anchor
+3366.0,-1.9159483,-1.7067555,3,Diego Carlos Santos Silva,Left Center Back,Possession system elite
+20033.0,0.8835509,10.28277,1,Luuk de Jong,Center Forward,Generalist
+7022.0,0.84296286,3.3572507,6,Jesús Joaquín Fernández Sáez de la Torre,Left Wing,Defensive anchor
+6301.0,-0.69115096,11.959998,1,Youssef En-Nesyri,Center Forward,Generalist
+18395.0,2.8374414,2.0694175,5,Vinícius José Paixão de Oliveira Júnior,Left Midfield,Wide progressive
+6708.0,-1.7703198,2.3733497,6,Paulo André Rodrigues de Oliveira,Right Center Back,Defensive anchor
+5214.0,0.17000575,3.1259077,6,William Silva de Carvalho,Left Center Midfield,Defensive anchor
+16309.0,15.792665,1.7342068,0,Joel Robles Blázquez,Goalkeeper,Shot-stopper
+23522.0,-1.5360345,4.917165,6,Emerson Aparecido Leite de Souza Junior,Right Back,Defensive anchor
+11538.0,0.69448483,6.0989785,2,Alejandro Moreno Lopera,Left Back,Box-to-box engine
+26404.0,0.8163286,4.3848577,6,Guido Rodríguez,Center Defensive Midfield,Defensive anchor
+6648.0,-1.3391722,2.271807,6,Aïssa Mandi,Right Center Back,Defensive anchor
+2948.0,3.0967243,-0.05494499,4,Nabil Fekir,Left Midfield,Creative playmaker
+11391.0,-0.27043942,11.777508,1,Borja Iglesias Quintas,Center Forward,Generalist
+23807.0,-3.4079893,2.8931634,8,Domingos Sousa Coutinho Meneses Duarte,Right Center Back,Stopper CB
+24134.0,-1.6269039,2.328702,6,Germán Sánchez Barahona,Left Center Back,Defensive anchor
+24140.0,15.4512,2.6201477,0,Rui Tiago Dantas da Silva,Goalkeeper,Shot-stopper
+16249.0,-0.38450348,11.8466425,1,Yangel Clemente Herrera Ravelo,Right Defensive Midfield,Generalist
+25702.0,-2.045291,4.1324067,7,Carlos Neva Tey,Left Back,Aggressive stopper
+24133.0,-1.7336057,4.100436,7,Víctor David Díaz Miguel,Right Back,Aggressive stopper
+11501.0,1.297154,8.938049,1,Darwin Daniel Machís Marcano,Left Wing,Generalist
+24126.0,0.61148274,10.617233,1,José Antonio Rodríguez Díaz,Right Wing,Generalist
+6982.0,-0.7388954,11.957382,1,Maxime Gonalons,Left Defensive Midfield,Generalist
+6603.0,-2.3373203,3.9982057,7,Dimitrios Siovas,Left Center Back,Aggressive stopper
+16212.0,0.27023512,11.036518,1,Óscar Rodríguez Arnaiz,Right Wing,Generalist
+5674.0,0.045180056,-3.323989,3,Moussa Wagué,Right Back,Possession system elite
+5830.0,-1.061744,11.096594,1,Kenneth Josiah Omeruo,Center Back,Generalist
+17620.0,0.22972837,10.20556,1,Marc Cucurella Saseta,Left Back,Generalist
+6722.0,15.7141,2.1848414,0,David Soria Solís,Goalkeeper,Shot-stopper
+6901.0,-0.78648806,11.963918,1,Nemanja Maksimović,Left Defensive Midfield,Generalist
+6634.0,-2.3249278,4.1762547,7,Djené Dakonam Ortega,Right Center Back,Aggressive stopper
+7104.0,0.3439564,9.973828,1,Mathías Olivera Miramontes,Left Back,Generalist
+6863.0,-0.6206097,11.895336,1,Mauro Wilney Arambarri Rosa,Right Defensive Midfield,Generalist
+5466.0,0.7725595,10.462659,1,Oghenekaro Etebo,Right Midfield,Generalist
+6611.0,-0.8192058,11.946211,1,Ángel Luis Rodríguez Díaz,Right Center Forward,Generalist
+11550.0,0.082872234,11.8309765,1,Jaime Mata Arnaiz,Left Center Forward,Generalist
+5575.0,0.39132836,1.7665787,-1,Héctor Miguel Herrera López,Right Center Midfield,Uncategorised
+3308.0,-2.276832,1.0265684,10,Kieran Trippier,Right Back,Aerial commander
+6790.0,-2.6002269,4.5298104,7,Mario Hermoso Canseco,Left Center Back,Aggressive stopper
+6629.0,13.742961,6.3747945,0,Fernando Pacheco Flores,Goalkeeper,Shot-stopper
+6636.0,-1.5166718,-0.31449986,9,Rodrigo Ely,Right Center Back,Attacking fullback
+24078.0,2.4740825,3.7010102,5,Javier Muñoz Jiménez,Center Attacking Midfield,Wide progressive
+24052.0,-0.7200754,11.979886,1,Yan Brice Eteki,Right Defensive Midfield,Generalist
+11532.0,-0.5054773,-3.090176,3,Jean-Clair Todibo,Right Center Back,Possession system elite
